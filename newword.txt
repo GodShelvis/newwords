@@ -1,1294 +1,756 @@
-secondhand,adj. 二手的；(信息) 间接得来的 adv. 作为二手货；间接地
-confusion,n. 困惑；混淆；窘迫；混乱的局面
-premier,adj. 首要的，最好的 n. 总理，首相
-destiny,n. 命运；神意，命运之神
-signify,vt. 表示，意味着；表达，表明 vi. 具有重要性，要紧
-stain,vt.  vi. 弄脏 vt. 给…染色；玷污，败坏 (名声) n. 污点，污渍；染色剂，着色剂
-liberate,vt. 使自由，使解脱；解放
-supplement,n. 增补 (物)，补充 (物)；增刊 vt. 增补，补充
-execution,n. 处决；执行；表演
-priest,n. 牧师，神父；神职人员
-scramble,vi. 攀爬；争抢，争夺 vt. 仓促完成；扰乱；炒 (蛋) n. 攀爬；争夺；摩托车越野赛 vt.  vi. (使) 紧急起飞
-Antarctic,n. 南极地区 adj. 南极的
-steamer,n. 汽船，大轮船；蒸笼，蒸锅
-exile,n. 流放，流亡；被流放者 vt. 流放，放逐
-thesis,n. 论文，学位论文；命题，论点
-countdown,n. 倒计时；大事临近的时期
-nourish,vt. 给…提供营养；培养，助长
-sweater,n. 毛衣，针织衫
-wayside,n. 路边
-spill,vi.  vt. (使) 溢出或洒出 vi. 蜂拥而出，涌出 n. 洒出 (量)，泼出 (量)；跌落
-circular,adj. 圆形的；循环的；循环论证的 n. 广告印刷品
-constrain,vt. 限制；约束；强迫；迫使
-dull,adj. 枯燥无味的；不明亮的；阴沉的 adj. 迟钝的；钝的；沉闷的 vt.  vi. 使麻木，使迟钝；(使) 变得暗淡
-madam,n. 夫人，女士；老鸨，妓院女老板
-revolutionary,adj. 革命的；革命性的，突破性的 n. 革命者，革命家
-humane,adj. 人道的，仁慈的
-suppress,vt. 镇压；压抑；封锁，隐瞒；抑制
-contaminate,vt. 污染，弄脏；玷污，毒害
-reconcile,vt. 使和谐一致；使和好；妥协
-thriller,n. 惊险小说 (或电影等)
-disarm,vi. 裁军，裁减军备 vt. 使解除武装；使消气；拆弹
-soda,n. 苏打水；汽水；苏打，纯碱
-immense,adj. 巨大的，极大的
-postage,n. 邮资，邮费
-resort,n. 度假胜地；采用的方法 vi. 诉诸，求助
-triumph,n. 成功，胜利；胜利的喜悦；典范 vi. 成功，获胜
-brilliant,adj. 聪颖的；杰出的；明亮的；极好的
-cabbage,n. 卷心菜，洋白菜
-tackle,vt. 处理 (难题)；与某人交涉；抓获 vt.  vi. 抢球，抢断；擒抱摔倒 n. 抢断球；阻截队员；体育器材
-textile,n. 织物，纺织品；纺织业
-overthrow,vt. 推翻；打倒；将…赶下台 n. (尤指用武力的) 推翻；打倒
-racial,adj. 种族间的；种族的，人种的
-turbulence,n. 涡流，紊流；动荡，骚乱
-extraordinary,adj. 非凡的，出色的；非常奇特的
-wax,n. 蜡，蜂蜡，石蜡；耳垢 vt. 给…打蜡；用蜡除毛 vi. 说话变得…起来；(月亮) 渐圆
-beggar,n. 乞丐，叫花子 vt. 使贫穷，使匮乏
-conceive,vt.  vi. 想象，想出，构想；怀孕
-drawer,n. 抽屉
-indirect,adj. 间接的；拐弯抹角的；绕远的
-maneuver,n. 策略；巧妙的移动；军事演习 vi.  vt. (谨慎或熟练地) 移动；操纵
-ministry,n. (政府的) 部；(全体) 牧师
-scrutiny,n. 彻底审查；仔细检查
-theirs,pron. 他们的，她们的，它们的
-snatch,vt.  vi. 一把抓起，迅速抓住 vt. 强抢，夺走；抓紧时间做某事 n. 片段，只言片语；抓，抢
-slope,n. 斜坡，斜面；滑雪斜坡；坡度 vi. 倾斜，有坡度；悄悄走，溜走
-gossip,n. 流言蜚语；闲聊；爱说闲话的人 vi. 闲聊，说长道短
-exempt,adj. 被免除 (义务、付款) 的 vt. 豁免，免除 (义务、付款)
-sponsorship,n. 资助，赞助
-crack,vi.  vt. (使) 破裂，裂开；砸开，破开 vt. 重击，猛击；找到解决方法 n. 裂缝；缝隙；爆裂声；尝试 adj. 训练有素的，一流的
-gulf,n. 海湾；海湾地区；鸿沟，分歧
-utilize,vt. 利用，使用
-flea,n. 跳蚤
-eighty,num. 八十
-carrot,n. 胡萝卜；好处，回报
-hormone,n. 激素，荷尔蒙
-adverse,adj. 不利的，有害的
-symbolic,adj. 象征性的；作为象征的
-fashionable,adj. 流行的，时尚的；有钱人光顾的
-anchor,n. 锚；主持人；顶梁柱 vi.  vt. 抛锚，使停泊；主持 (节目) vt. 使固定；使扎根
-biochemistry,n. 生物化学
-elicit,vt. 引出，诱出，套出
-multiply,vi.  vt. 乘；(使) 大量增加；(使) 繁殖
-lengthy,adj. 长时间的；长篇大论的，冗长的
-uncover,vt. 揭露，发现；揭开…的盖子
-evil,adj. 邪恶的，道德败坏的；恶魔的 n. 邪恶；弊端，坏处
-presently,adv. 目前，现在；马上，随即
-shareholder,n. 股东
-northeast,n. 东北，东北方 adj. 东北部的 adv. 向东北
-gram,n. 克 (重量单位)
-multinational,adj. 跨国的；多国的；多民族的 n. 跨国公司
-whilst,conj. 当…的时候，然而，尽管
-outgoing,adj. 外向的；即将卸任的；离去的
-prudent,adj. 谨慎的；慎重的；精明的
-Bible,n. 圣经
-blue-collar,adj. 蓝领的，从事体力劳动的
-misconduct,n. 不端行为，失职；管理不善
-preferable,adj. 更好的，更可取的，更合适的
-superb,adj. 极好的，卓越的
-milestone,n. 里程碑，重大事件
-bronze,n. 青铜；青铜色；青铜制品；铜牌 adj. 青铜色的
-symphony,n. 交响乐，交响曲
-remedy,n. 解决方法；药品，疗法 vt. 纠正，补救
-innocence,n. 清白，无罪；天真，单纯，纯真
-skillful,adj. 技术好的，熟练的；处理巧妙的
-sauce,n. 调味汁，酱汁；无礼的话
-consequent,adj. 因之而起的，作为结果的
-spice,n. (调味) 香料；趣味；情趣 vt. 在…中加香料；给…增添趣味
-bald,adj. 秃顶的；磨平的；直截了当的
-innovate,vi.  vt. 革新，创新，改革
-equation,n. 等式，方程式；等同 n. (必须考虑多种因素的) 复杂局面
-comparable,adj. 有可比性的，类似的
-lawn,n. 草坪，草地
-kilowatt,n. 千瓦 (电的功率计量单位)
-mortgage,n. 房屋抵押贷款，按揭 vt. 抵押 (房屋、土地) 借款
-stroke,n. 击球；一击；一笔；中风；轻抚 n. (成功的) 举动；钟声；游泳姿势 vt. 轻抚，抚摸；轻触，轻拭
-seventy,num. 七十
-brink,n. 边缘；边沿
-infection,n. (被) 传染；传染病；感染
-sideways,adv. 往 (或从、向) 一侧；侧着 adj. 侧着的
-distract,vt. 分散 (注意力)，使分心
-reluctant,adj. 勉强的，不情愿的
-daring,adj. 大胆的，敢于冒险的 n. 胆量，勇气，冒险精神
-assembly,n. 立法机构，议会；集会；组装
-everlasting,adj. 永久的，永恒的；没完没了的
-fax,n. 传真机，传真系统；传真件 vt. 用传真机发送
-certificate,n. 证明，证书；结业证书
-enroll,vi.  vt. (使) 加入，招收 (成员)，注册
-screw,n. 螺丝，螺丝钉；螺旋桨；狱警 vt. 用螺丝固定；旋紧，拧紧；诈骗 vi. 拧上去
-interim,adj. 暂时的，过渡的；期中的 n. 期间
-minus,prep. 减去；缺少 adj. 小于零的，负的；负面的 n. 减号，负号；缺点
-plug,n. 插头；塞子；火花塞 vt. 堵塞；补足；推广；插插头
-swan,n. 天鹅 vi. 悠游，闲逛
-enclose,vt. 围住；随信附上
-robust,adj. 健壮的；结实的；强劲的
-coarse,adj. 粗糙的；大颗粒的；粗鲁的
-resume,vt.  vi. (中断后) 继续 vt. 恢复 (职位)，回到 (座位) n. 简历，履历 n. 摘要，概述
-preservation,n. 保护；保持，维持；保存的状况
-overpass,n. 高架桥；跨线桥；立交桥
-notwithstanding,prep.  adv.  conj. 尽管，虽然
-garage,n. 车库；汽车修理厂 vt. 把…送入车库 (或修车厂)
-charter,n. 章程，宪章；特许状；包租 vt. 包租 (飞机、船只等) adj. (飞机、船只等) 包租的
-zoology,n. 动物学
-vigorous,adj. 精力旺盛的；强有力的，积极的
-hug,vt.  vi. 拥抱，搂抱 vt. 抱紧；紧挨；(衣物) 贴 (身) n. 拥抱，搂抱
-strand,n. 股，缕；部分；海滨，海岸 vt. 使滞留，使无法脱身；使搁浅
-adolescence,n. 青春期
-conduction,n. (电或热的) 传导
-seemingly,adv. 貌似，看似；据说，看来
-envious,adj. 羡慕的，嫉妒的
-accommodate,vt. 容纳；为…提供住宿；迎合 vi.  vt. (调整以) 适应
-tribe,n. 部落；一伙人；(动植物的) 族
-subtle,adj. 细微的，微妙的；含蓄的；巧妙的
-skyline,n. 轮廓线，天际线
-reservation,n. 预订，预约；保留意见；保留地
-juvenile,adj. 少年的；幼稚的；(动物) 幼小的 n. 少年；幼仔，雏鸟
-dread,vt. 非常害怕，极为担心 n. 恐惧，令人惧怕的事物
-mathematical,adj. 数学的
-crumble,vt.  vi. (使) 粉碎，(使) 破裂 vi. 崩塌，破裂；衰落，崩溃
-lottery,n. 乐透，彩票抽奖；碰运气的事
-oak,n. 橡树；栎树；橡木；栎木
-affix,vt. 粘上，贴上，附上，使固定 n. 词缀
-prosecute,vt.  vi. 起诉；担任控方律师；继续做
-Coca-Cola,n. 可口可乐
-emulate,vt. (因仰慕而) 效仿，尽力赶超
-costly,adj. 昂贵的；代价大的
-laundry,n. (要洗或洗好的) 衣物；洗衣房
-deputy,n. 副手，代理人；治安官助理
-soluble,adj. 可溶解的；(问题) 可解决的
-purity,n. 纯洁，纯净
-burst,vi.  vt. (使) 爆裂，胀开 vi. 猛冲；爆满，涨满；突然爆发 n. 迸发，爆发；爆裂，裂口
-pants,n. 裤子；内裤 adj. 糟糕的，劣质的
-pudding,n. 布丁；甜点
-chest,n. 胸部，胸膛；大箱子
-insane,adj. 精神失常的；愚蠢的，荒唐的 n. 精神病人，精神失常的人
-utility,n. (水、电等) 公用事业；实用 adj. 多功能的，多用途的
-shutter,n. 百叶窗；快门 vt. 打烊，停业
-genetics,n. 遗传学
-journalist,n. 记者，新闻工作者
-pessimistic,adj. 悲观的
-artwork,n. 艺术作品；(图书) 插图
-jewel,n. 宝石；珠宝，首饰；珍贵的东西
-crown,n. 王冠；王国；王权；冠军宝座 vt. 为…加冕；给…加顶；使圆满
-princess,n. 公主；王妃；被宠坏的大小姐
-fearful,adj. 害怕的；可怕的；极坏的
-alliance,n. 联合，结盟；结盟团体，联盟
-penalty,n. 处罚，罚金；判罚；罚球；害处
-sightseeing,n. 游览，观光
-freight,n. 货物，货运；运费 vt. (用飞机等) 运送，托运
-assert,vt. 断言；坚持 (主张)；维护 (权威)
-crush,vt. 压坏；捣碎；镇压；使非常伤心 vt.  vi. (使) 变皱 n. 迷恋；拥挤的人群；果汁饮料
-signature,n. 签名，署名；签署；鲜明特征
-urgency,n. (事态) 紧急；(心情) 急迫
-massacre,n. 大屠杀；惨败 vt. 屠杀；使惨败
-gasoline,n. 汽油
-incur,vt. 招致，引起，蒙受
-pear,n. 梨
-unify,vt.  vi. 使统一；使成一体
-calcium,n. (化学元素) 钙
-obsession,n. 痴迷，着魔
-commonplace,adj. 平常普通的，不足为奇的 n. 寻常事物；老生常谈
-shrug,vt.  vi. 耸肩 n. 耸肩；带袖短披肩
-carefree,adj. 无忧无虑的，无牵挂的
-depict,vt. 描绘；描述，刻画
-portray,vt. 将…表现成；描绘，描写；扮演
-mingle,vt.  vi. (使) 混合， (使) 相混 vi. (社交场合) 四处走动与人交谈
-ceiling,n. 天花板；上限；升限
-receiver,n. 接收器；听筒；接收人
-watermelon,n. 西瓜
-lad,n. 小伙子，少年；哥们儿；马夫
-hemisphere,n. (地球的) 半球；(脑的) 半球
-slim,adj. 苗条的；单薄的；微小的 vi. 变苗条，减肥
-truthful,adj. (人) 诚实的；(陈述等) 如实的
-humidity,n. (空气) 湿度；潮湿
-basement,n. 地下室
-bay,n. 湾，海湾；隔间；月桂；栗色马 vi. 发出长嗥；强烈要求 adj. (尤指马) 棕红色的，栗色的
-qualitative,adj. 质量的，定性的，性质的
-missile,n. 导弹，飞弹；(作为武器) 投掷物
-ox,n. 阉牛，(泛指) 牛
-trumpet,n. 喇叭；小号；喇叭形的东西 vt. 吹嘘；宣扬 vi. (大象) 吼叫
-uphold,vt. 支持，维护；维持 (原判)
-refrigerator,n. 冰箱
-tenth,ord. 第十 n. 十分之一
-detective,n. 侦探
-breakthrough,n. 突破，重大进展 adj. 突破性的，取得重大成功的
-prejudice,n. 偏见，成见 vt. 使有偏见；损害，危害
-nightmare,n. 噩梦；令人恐怖的处境
-verbal,adj. 口头的；言辞的；动词的
-brake,n. 刹车，车闸；阻碍，阻碍物 vi.  vt. 刹车
-grieve,vi.  vt. (因某人去世而) 悲伤，悲痛 vt. 使难过，使悲伤
-cage,n. 笼子 vt. 把…关进笼子里
-periodic,adj. 周期的，定期的
-troop,n. 军队，部队；一群人 vi. 成群结队而行 adj. 军队的
-inclusive,adj. 费用全包的，包括的；包容性强的
-instruct,vt. 指示，吩咐；教授，传授
-ashore,adv. 在岸上，向岸上
-heel,n. 脚后跟；鞋跟；女高跟鞋 vi. 倾斜，倾侧
-civilian,n. 平民，百姓 adj. 民用的，平民的，非军用的
-disapprove,vi.  vt. 不赞成；反对
-chimney,n. 烟囱；(岩石间的)狭缝
-outlet,n. 出口，发泄途径；经销店；折扣店 n. 媒体公司；插座；排放口
-delicacy,n. 佳肴；周到；脆弱；温柔；棘手 n. 精美
-laughter,n. 笑，笑声
-proceed,vi. 继续做，接着做；行进，前往
-eccentric,adj. 古怪的；怪异的 n. 行为古怪的人
-stocking,n. 长筒袜
-county,n. 郡，县
-devil,n. 魔鬼，恶魔；淘气鬼；家伙
-compartment,n. 车厢，舱；分隔间，隔层
-demanding,adj. 要求很高的；(人) 苛刻的
-prominent,adj. 杰出的，重要的；显眼的
-offense,n. 违法行为；冒犯，得罪；进攻方
-promising,adj. 大有希望的，很有前途的
-rein,n. 缰绳；控制，主宰；保护带 vt. 控制
-automobile,n. 机动车，汽车，车
-vibrate,vi.  vt. (使) 振动，(使) 颤动
-expertise,n. 专门技术，专门知识，专长
-attorney,n. 律师；代理人
-alphabet,n. 字母表
-denote,vt. (符号等) 代表；表示，意指
-chip,n. 薯条，薯片；芯片；缺口；碎屑 vt.  vi. 打破，弄缺；打 (或踢) 高球 vt. 削下，凿下
-cushion,n. 坐垫，靠垫；起缓冲作用的事物 vt. 起缓冲作用；减轻…的影响
-wool,n. (羊等的) 毛；毛线；羊毛织物
-irrational,adj. 不合逻辑的，不合理的，荒谬的
-normalize,vt.  vi. (使) 正常化
-drift,vi. 漂流，漂；缓缓移动 vt. 使漂流，使漂浮 n. 雪堆；水流，气流；主旨；偏航
-fate,n. 命运的安排，命运，厄运；宿命
-hostile,adj. 敌意的；反对的；(条件) 不利的
-profound,adj. 深远的；知识渊博的；玄奥的
-apology,n. 道歉，认错
-cathedral,n. 大教堂，主教座堂
-speculation,n. 推测，猜测；投机买卖
-forgive,vt.  vi. 原谅，宽恕 vt. 对不起，请原谅；免除 (债务)
-pollutant,n. 污染物
-footstep,n. 脚步声；足迹
-pan,n. 平底锅；烤盘 vt. 严厉批评；淘 (金) vi.  vt. 追拍，摇摄
-expire,vi. (协议等) 到期，失效；死亡
-socialism,n. 社会主义
-distill,vt. 蒸馏；提炼 (信息)
-ambulance,n. 救护车
-unity,n. 团结一致，统一；统一体；协调
-freezer,n. 冷冻柜，冰柜
-refine,vt. 提炼，精炼；改善，改良
-crust,n. 面包皮；酥皮；硬层；地壳
-removal,n. 移走，拿走；消除；免职；搬迁
-yell,vi.  vt. 大喊，吼叫 n. 大喊，吼叫
-pension,n. 养老金；膳宿公寓 vt. 给…发养老金，使…退休
-graze,vt.  vi. (牛、羊等) 吃青草 vt. 放牧；擦伤 (皮肤)；轻擦，蹭 n. (表皮) 擦伤
-hesitate,vi.  vt. 犹豫，迟疑 vi. (因有顾虑而) 不愿意 (做某事)
-swallow,vt.  vi. 吞下，咽下 vi. (由于紧张等) 做吞咽动作 vt. 吞没，淹没；信以为真；掩饰 n. 燕子；咽，一口
-groan,vi.  vt. 呻吟，哼哼 vi. (因重压而) 嘎吱作响；抱怨 n. 呻吟声，哼哼声，嘎吱声
-incompatible,adj. 不相容的；合不来的；不兼容的
-aggravate,vt. 加重，使恶化；激怒，使恼火
-medieval,adj. 中世纪的
-Neptune,n. 海王星
-repressive,adj. 压迫的，专制的；压抑的
-swamp,n. 沼泽 vt. 淹没；使应接不暇
-amass,vt. 积累，大量收集
-creep,vi. 悄悄行进；匍匐行进；渐渐出现 n. 讨厌鬼；马屁精；偏离
-bloom,vi. 开花，绽放；精神焕发，繁荣 n. 花，花朵；青春焕发
-restless,adj. 坐立不安的；没有真正休息的
-diameter,n. 直径；放大倍数
-hose,n. 软管，胶管；(旧时) 男式紧身裤 vt. 用软管洒水、清洗等
-southwest,n. 西南方；西南部 adv. 向西南 adj. 西南部的；(风) 从西南来的
-integrity,n. 正直，诚实；完整，完全
-rust,n. 锈，铁锈 vt.  vi. (使) 生锈
-boot,n. 靴子；后备箱；猛踢 vt. 猛踢；给 (违停车辆) 上夹锁 vi.  vt. 启动 (计算机)
-retail,n. 零售 adv. 以零售方式 vt. 零售；(详细地) 讲述 vi. 以…价格零售
-slot,n. 狭槽，投币口；时段，位置 vt.  vi. 投放，(被) 塞进
-gauge,n. 测量仪器；宽度；口径；标准 vt. 判断 (尤指感受)；测量；估算
-inspect,vt. 检查，审视；视察，检阅
-pastime,n. 消遣，娱乐
-coupon,n. 优惠券，赠券
-orthodox,adj. 正统的；东正教的；正统教派的
-militant,adj. 好战的，激进的 n. 好战分子，激进分子
-split,vi.  vt. (使) 分裂；(使) 分开；(使) 撕裂 vt. 分担，分摊；划破，割破 vi. (和某人) 断绝关系；(迅速) 离开 n. 分歧；划分，份额；裂缝；劈叉
-blur,n. 模糊不清的事物；模糊的记忆 vt.  vi. (使) 视线模糊；使 (想法等) 模糊
-replacement,n. 替换，取代；替换物；接替者
-faint,adj. (光、声等) 微弱的；渺茫的 vi. 晕倒，昏厥 n. 昏厥
-revelation,n. 被揭示的真相；揭露 n. (上帝的) 启示
-drag,vt. 拖，拉；生拉硬拽；用鼠标拖动 vi.  vt. 缓慢而费力地移动 vi. (时间或活动) 过得很慢 n. 累赘；讨厌的人或事；空气阻力
-fleet,n. 舰队；捕鱼船队；车队 adj. 快速的，敏捷的
-prior,adj. 先前的；优先的；在…前面的 n. 犯罪前科
-derail,vt.  vi. 使 (火车) 脱轨；破坏计划
-intermediate,adj. 中级的；居中的，中间的 n. 中级水平者
-logical,adj. 合情合理的；合乎逻辑的
-bucket,n. 桶；铲斗；大量
-envelope,n. 信封
-gum,n. 口香糖；牙龈，牙床；树胶，树脂
-unquestionable,adj. 毫无疑问的，无可置疑的
-lawsuit,n. 诉讼，官司
-recorder,n. 录音机，录像机；竖笛；记录员
-bolt,n. (门窗) 插销；螺栓；一道 (闪电) vt.  vi. 闩上 (门、窗) vt. 用螺栓固定；狼吞虎咽 vi. (马等) 脱缰；(人) 跑开
-petrochemical,n. 石 (油) 化 (学) 产品
-plague,n. 鼠疫；瘟疫；灾害，祸患 vt. 困扰，折磨；纠缠，缠扰
-congratulation,n. 祝贺，贺辞；恭喜
-quench,vt. 解渴；扑灭；满足，压抑 (欲望)
-discard,vt. 抛弃，丢弃 n. 被抛弃的人或物
-neutralize,vt. 使无效，抵消；中和；使中立
-pursuit,n. 追求；追赶；爱好，消遣
-impulse,n. 冲动；脉冲；推动力
-subtract,vt.  vi. 减，减去
-whichever,det.  pron. 无论哪个
-adore,vt. 爱慕，疼爱 (某人)；喜爱 (某物)
-heaven,n. 天堂，极乐之地；天空
-patriotism,n. 爱国主义，爱国精神
-posture,n. 姿态，姿势；态度，立场 vi. 装腔作势
-originality,n. 原创性，创造性
-petroleum,n. 石油
-grope,vi.  vt. 摸索；寻找 vt. 猥亵；摸 n. 抚摸；猥亵
-greedy,adj. 贪婪的，贪吃的
-hive,n. 蜂房；蜂群 n. 繁忙的地方；荨麻疹
-wit,n. 机智风趣 (的人)；头脑；明智
-butter,n. 黄油，牛油 vt. 给…抹上黄油
-ritual,n. 仪式；惯例，老规矩 adj. 仪式的；例行公事的，老套的
-treaty,n. 条约，协定
-viewpoint,n. 观点，看法；视角，角度
-carriage,n. 马车；火车车厢；运费；仪态
-lavatory,n. 厕所，洗手间
-breeze,n. 微风；轻而易举的事 vi. 轻盈而自信地走
-theft,n. 盗窃 (罪)
-goodness,n. 善良，美德；(食物中的) 营养 int. (表示惊讶) 天哪
-pale,adj. (肤色) 苍白的；浅的；黯淡的 vi. 变得苍白；黯然失色
-humble,adj. 谦逊的；卑微的；不起眼的 vt. 使感到卑微；低声下气
-motel,n. 汽车旅馆
-repel,vt. 驱逐；赶走；使厌恶；使反感 vi.  vt. (磁极等) 排斥，相斥
-blush,vi. (因尴尬或害羞) 脸红；感到羞愧 n. 面部泛起的红晕；腮红
-draft,n. 草稿；征兵；汇票；穿堂风 vt. 起草，草拟；征募；选派
-tailor,n. 裁缝 vt. 定做
-transcend,vt. 超出，超越
-premise,n. 前提；房屋及土地；经营场所
-pitch,n. 球场；音高；沥青；宣传论点 vt. 用力扔；搭 (帐篷)；定音高 vi.  vt. 投球；推销 vi. 颠簸，上下飘荡
-circus,n. 马戏团；马戏表演；环形广场
-entrepreneur,n. 企业家
-miniature,adj. 很小的，微型的 n. 微型画，小画像；缩微模型
-flock,n. (动物) 群；一大群(人) vi. 蜂拥，群集，涌向
-pest,n. 害虫，有害动物；讨厌鬼
-affirm,vt. 证实，确认；断言，申明
-underway,adj. 在进行中的，起步的
-standpoint,n. 立场，观点，角度，立足点
-swear,vi. 咒骂，诅咒，说脏话 vt. 发誓要；肯定地说；使起誓 vi.  vt. 发誓，郑重承诺
-limp,adj. 疲软的，无力的 vi. 一瘸一拐地走；艰难地进展 n. 一瘸一拐，跛行
-air-conditioning,n. 空调系统
-wholly,adv. 完全地，完整地
-chap,n. 小伙子，伙计 vi. 皮肤皲裂
-eighteen,num. 十八
-fancy,adj. 花哨的；精致的；奢华的 vt. 想要，想做；爱慕；自负；认为 vi.  vt. 真没想到，竟然 n. 想象；想要，爱好
-savage,adj. 凶恶的；猛烈抨击的；野蛮的 n. 野蛮人；残暴的人 vt. 凶猛地攻击；激烈抨击
-bark,vi. (犬) 吠 vt. 怒气冲冲地说，咆哮 n. 犬吠声；树皮；很大的响声
-vent,n. 通风孔，排放口；开衩 vt. 发泄，宣泄；排放
-intellect,n. 智力，领悟力；才智非凡的人
-synthetic,adj. 合成的，人造的 n. 合成物
-shepherd,n. (尤指男性) 牧羊人 vt. 带领，护送
-tune,n. 曲调，曲子 vt. 调音；调整；调频道
-prevention,n. 预防，防范
-triangle,n. 三角形；三角铁；三角关系
-transparent,adj. 透明的；明显的；公开的
-well-off,adj. 富裕的，家境好的；有很多…的
-opt,vi.  vt. 选择，作出抉择
-suck,vt. 吮，吸；抽 (空气等)；把…卷入 vi.  vt. 含在嘴里吮 vi. 糟糕透顶，很差 n. 吸，吮
-provision,n. 提供，供给；准备；储粮；条款 vt. 给…提供所需物品
-weird,adj. 古怪的，奇异的
-span,n. 持续时间；范围；跨度；宽度 vt. 持续，贯穿；包括，涵盖；横跨
-marble,n. 大理石；弹珠；弹子游戏
-cloth,n. 布，布料；牧师
-strap,n. 带子 vt. 用带子系 (或绑)；用绷带包扎
-jet lag,n. 时差反应
-meadow,n. 草地，牧场
-outdate,vt. 使过时，使废弃
-watertight,adj. 不透水的，防水的；无懈可击的
-Marxism,n. 马克思主义
-dairy,n. 乳制品；牛奶场；乳品公司 adj. 乳品的；生产乳品的
-yacht,n. 游艇，大型帆船
-liter,n. 升 (公制容量单位)
-sour,adj. 酸的；馊的；(人) 阴郁的 vi.  vt. (关系、态度) 变坏；变味，变馊
-odd,adj. 奇怪的；奇数的；偶尔发生的 adj. 不成对的；可得到的；大约
-indication,n. 表明，迹象，象征
-retailer,n. 零售商，零售商店
-manifest,vt. 显现，表明 adj. 明显的 n. 载货单，旅客名单
-illuminate,vt. 照亮；照明；照射；阐释；说明
-submarine,n. 潜艇 adj. 海底的
-fare,n. 车费，票价；乘客；饭菜 vi. 进展，进行
-blast,n. 爆炸，气浪；强劲的气流；响声 vt.  vi. 炸毁，爆破；发出刺耳的高音 vt. 严厉批评；猛击；向…喷射
-teamwork,n. 团队合作，协作
-thoughtful,adj. 沉思的；体贴的；深思熟虑的
-tolerant,adj. 宽容的，容忍的；能耐…的
-segment,n. 部分；(节目等的) 节，段；瓣 vt. 分割，划分
-output,n. 产量，输出量；输出功率
-motorbike,n. 摩托车
-scream,vi.  vt. 尖叫；高声喊 vi. 发出大而尖的声音 n. 尖叫，呼啸声；可笑的人 (或物)
-seaport,n. 海港城市
-literally,adv. 字面上地；确实地；简直
-wireless,adj. 无线的 n. 无线电收音机；无线电
-survivor,n. 幸存者；生还者
-deck,n. 甲板；(车、船的) 层；一副 (牌) n. 木质平台；(录音机的) 走带装置 vt. 装饰，装点
-statesman,n. 政治家
-liberty,n. 自由；(某种) 合法权利；失礼
-endless,adj. 无穷无尽的；无休止的
-virtue,n. 美德；优点，长处
-mask,n. 面具，面罩，口罩；面膜；伪装 vt. 掩饰，掩藏
-anyhow,adv. 无论如何，反正；尽管如此 adv. 对了；至少
-penny,n. 便士；分
-identification,n. 确认，识别；身份证明；确定
-climax,n. 高潮，极点，顶点 vi.  vt. 达到顶点 (或高潮)
-continual,adj. 不停的，无间断的；频繁的
-likewise,adv. 同样地，相似地；我也一样
-spur,n. 马刺；鞭策，激励；山嘴 vt. 鞭策，激励；促进，加速
-selfish,adj. 自私的
-summit,n. 山顶，顶峰；峰会，首脑会议
-dreamy,adj. 恍惚的；不切实际的；梦幻的
-peninsula,n. 半岛
-inspiration,n. 灵感；灵感来源；鼓舞人心的人
-irregular,adj. 不整齐的；不规则的；不正常的 n. 非正规军军人
-arrest,vt. 逮捕；阻止；吸引…的注意力 n. 逮捕；(身体部分) 突然停止工作
-fascinating,adj. 让人着迷的，极有吸引力的
-living room,n. 客厅，起居室
-neck,n. 脖子；衣领；细长的部分
-capability,n. 能力，才能；军事力量
-human,n. 人，人类 adj. 人的，人类的；有人情味的
-yet,adv. 还没；马上；还；迄今为止 conj. 但是，然而
-pound,n. 英镑；磅 (重量单位) vi.  vt. 反复击打，连续砰砰地猛击 vi. (心脏) 狂跳，怦怦地跳 vt. 捣碎，击碎
-violin,n. 小提琴
-participant,n. 参与者，参加者
-foot,n. 脚，足；底部；英尺 vt. 负担费用
-total,adj. 全部的，总计的；完全的 n. 总数，合计 vt. 总计为；计算…的总和
-import,vt. 进口，引进；导入，输入 n. 进口 (货)；舶来品；重要性，意义
-within,prep. 在…之内；在…内部，在…里 adv. 在里面，在内部
-luminous,adj. 光亮的，发光的
-dismiss,vt. 不予考虑；解雇，开除；消除 vt. 解散，让 (某人) 离开；驳回
-basin,n. 洗脸池；盆；流域；盆地；内港
-negotiable,adj. 可协商的；可转让的
-avenue,n. 街道；林荫大道；方法，途径
-shatter,vt.  vi. (使) 破碎；使 (希望等) 破灭 vt. 使…极为惊愕难过
-throat,n. 咽喉，喉咙
-administer,vt. 管理 (公司等)；给予 (药等) vt.  vi. 执行，实施
-lure,vt. 引诱，诱惑 n. 诱惑力，魅力；诱饵
-thumb,n. 拇指；(手套的) 拇指部分 vi. 快速翻阅 vi.  vt. 翘起拇指请求搭乘；用拇指摸
-obscure,adj. 鲜为人知的；难以理解的 vt. 掩盖，使模糊，使隐晦
-crystal,n. 结晶，晶体；水晶；水晶玻璃
-drawback,n. 缺点，不利条件
-oneself,pron. 自己，自身；亲自
-hip,n. 髋，臀部；野蔷薇果 adj. 新潮的，赶时髦的
-ax,n. 斧头；(遭到) 解雇，倒闭 vt. 撤掉 (业务等)；解雇；用斧砍死
-offend,vt.  vi. 冒犯，得罪 vt. 令人不适 vi. 违反 (法规、原则等)；犯罪
-turbulent,adj. 动荡的，混乱的；湍急的
-arrow,n. 箭，矢；箭头，箭号
-barn,n. 谷仓，畜棚
-dazzle,vt.  vi. (强光) 使目眩，使眼花 vt. 使倾倒，使惊叹 n. 耀眼；令人赞叹的东西 (或品质)
-stir,vt.  vi. 搅动，搅拌；(使) 微动 vt. 引起，造成，激起 vi. (情绪等) 开始出现 n. 激动，愤怒；搅动，搅拌
-parachute,n. 降落伞 vi. 跳伞 vt. 伞投，空投
-sofa,n. 长沙发
-social,adj. 社会的；社交的；群居的
-about,adv. 大约；到处；附近；将近；调头 prep. 关于，对于；涉及…方面；忙于
-even,adv. 甚至，连，即使；甚至更 adj. 平坦的；均匀的；偶数的 vt.  vi. 使平均
-last,det. 最后的；最近的；最不可能的 adv. 最后，最终；最近，上一次 n. 最后来的人或事；仅剩下的部分 vi.  vt. 持续；保持良好状态；够用
-wall,n. 墙，围墙 vt. 用墙把…围住
-shock,n. 震惊；休克；剧烈震动；触电 vt. 使震惊，使惊愕 vi.  vt. 使气愤
-learn,vt.  vi. 学习，学到；得知；意识到
-locate,vt. 确定…的位置；使位于 vi. (公司) 落户于
-factor,n. 因素，要素；因子，因数；倍数 vt. 把…因素包括进去
-insight,n. 深刻见解，洞悉；洞察力
-real,adj. 真的，真正的，真实的 adv. 非常，很
-team,n. 队，团队 vt. 合作，协作
-equal,adj. 相等的；平等的；能胜任的 vlink. 与…相等，等于 vt. 比得上；导致，结果为 n. 同等的人，相等物
-typical,adj. 典型的；一贯的；果不其然的
-source,n. 来源，出处；消息来源；根源 vt. (从…) 获得
-display,vt. 陈列，展示；显示，表现 n. 陈列；表演；显示，表现；显示器 vi. (为求偶而) 炫耀
-excessive,adj. 过分的，过多的
-my,det. 我的
-accomplish,vt. 完成，达成
-cough,vi. 咳嗽 n. 咳嗽，咳嗽声 vt. 咳出 (血等)
-mention,vt. 提及，说起 n. 提及，说起
-gain,vt. 获得，赢得；增加；到达 vt.  vi. 受益；增值 n. 增加；好处；利润
-around,prep.  adv. 周围，环绕；附近，到处 adv. 大约
-here,adv. 在这里，向这里
-wedding,n. 婚礼
-horse,n. 马；赛马
-formal,adj. 正式的，正规的
-test,n. 测验；检查，化验；试验；考验 vt.  vi. 测验，考查；检查，化验 vt. (产品) 检验，测试；考验
-noodle,n. 面条
-have,vt. 有；患病；举办；吃，喝；进行 aux. 已经
-soup,n. 汤，羹
-healthy,adj. 健康的；有益健康的；合情理的
-benefit,n. 好处；救济金；福利；慈善活动 vt.  vi. 使受益，得益于
-estimate,vt. 估计，估算，估价 n. 估计，估算，估价
-net,n. 网；因特网；网眼织物；球门网 adj. 净赚的；净重的；最后的 vt. 净赚；成功获取；用网捕捉
-silent,adj. 沉默的；寂静的；只字不提的
-housework,n. 家务活
-ending,n. 结局，结尾；终结；词尾
-mother,n. 母亲，妈妈 vt. 作为母亲照顾，像母亲般关爱
-condition,n. 状态；健康状况；疾病；条件 vt. 训练，使习惯于；影响；养护
-wherever,conj.  adv. 无论哪里；在任何情况下 adv. 究竟在哪里
-customer,n. 顾客，客户；家伙
-beat,vt. 打败；难倒；胜过；快速搅拌 vt.  vi. 打，敲打；(使) 规律作响 n. 跳动；敲击；节拍
-experiment,n. 实验，试验；尝试，实践 vi. (用…) 做实验；进行试验，试用
-character,n. 性格；角色；特点；字符；名誉
-exact,adj. 精确的；严谨的；精密的 vt. 勒索，索取；迫使，强加…于
-map,n. 地图 vt. 绘制…的地图；发现，表示出
-emperor,n. 皇帝，君主
-sustain,vt. 保持，维持；遭受；支撑；认可
-attract,vt. 吸引；引起 (注意等)
-encounter,vt. 遭遇；偶遇 n. 偶遇；冲突；经历
-imagination,n. 想象力；想象，幻想；创造力
-satisfied,adj. 满意的；确信的
-go,vi. 去；移动；离开；通向；进展
-upset,adj. 难过的，心烦的；肠胃不适的 vt. 使烦恼；打乱；使 (肠胃) 不适 n. 意外结果，冷门；肠胃病；苦恼
-popular,adj. 受欢迎的；大众 (化) 的
-subway,n. 地铁；地下通道
-welfare,n. 幸福；社会福利；社会保障金
-code,n. 密码，代码；行为准则，法规 vt. 给…编号；编程，编码
-die,vi.  vt. 死亡，凋谢 vi. 消亡；(机器) 停止运转 n. 模具，压模
-define,vt. 给…下定义；阐明，界定
-labor,n. 劳动；劳动力；分娩；英国工党 vi. 努力做 (困难的事)；干苦力活
-boost,vt. 使增长，推动；偷窃 n. 激励；增加；向上一推
-exhibit,vt.  vi. 展览，展出；表现出，显示出 n. 展品；展览会；证物，证据
-sunlight,n. 阳光
-tip,n. 建议，窍门；小费；尖端；密报 vi.  vt. (使) 倾斜，侧倾；给小费 vt. 倾倒，倒出；轻触；预言…获胜
-prospect,n. 可能性；展望；前景，前途 vi. 勘探，探矿
-fry,vt.  vi. 油炸，油煎，油炒 vi. (被阳光) 灼伤，晒伤 n. 炸薯条；鱼苗
-description,n. 描述，叙述；种类，类型
-king,n. 国王；…之王
-nearly,adv. 几乎，差不多
-investment,n. 投资；(时间、精力的) 投入
-reject,vt. 拒绝接受；不录用；抛弃；排斥 n. 次品，不合格者
-judge,n. 法官；裁判员；鉴定人 vi.  vt. 判断；担任裁判；评价，指责 vt. 估计，猜测；审理，判决
-offer,vt.  vi. 主动提出，自愿给予 vt. 提供，供应 n. 提议；出价，报价；特价
-model,n. 模型；模特儿；样式；范例 vi. 做模特儿 vt. 将…做成模型；模仿
-difference,n. 差异；差额；分歧
-honest,adj. 诚实的，坦诚的；踏实认真的
-single,adj. 单个的；单身的；单人的 n. 单人房间；单程票；单曲 vt. 单独挑出
-leg,n. 腿；腿肉；裤腿；(桌椅等的) 腿 n. 一段路程 (或赛程)
-obvious,adj. 明显的，显然的；无新意的
-option,n. 选择 (权)；选修课；选项；期权 vt. 购买 (或出售)…的选择权
-hunger,n. 饥饿，饥荒；饥饿感；渴望
-tool,n. 工具；手段；被操控的人
-custom,n. 风俗；个人习惯；惠顾；海关 adj. 定做的
-attempt,vt. 尝试，试图 n. 尝试，试图；谋杀企图
-external,adj. 外部的；对外的
-indoor,adj. 室内的，户内的
-improvement,n. 改善，改进，提高
-occasion,n. 某次；特殊场合；时机
-DNA,n. 脱氧核糖核酸
-south,n. 南，南方，南部 adj. 南方的，向南的，南方来的 adv. 朝南，向南
-yesterday,adv. 在昨天 n. 昨天；近日，往昔 adj. 过去的，过时的
-family,n. 家庭，家族；(动植物) 科 adj. 家庭的，适合全家的
-hey,int. 嘿，喂；没关系；对吧，你说呢
-voice,n. 嗓音，说话声；发言权；心声 vt. 表达，吐露
-gentleman,n. 绅士；先生；有身份的人
-material,n. 材料；布料；素材 adj. 物质的
-particularly,adv. 特别，尤其
-life,n. 生命；生物；一生，寿命；生活
-workplace,n. 工作场所
-finance,n. 财政，金融；资金；财务状况 vt. 给…提供资金，资助
-react,vi. (作出) 反应；过敏；起化学反应
-America,n. 美国；美洲
-fact,n. 现实；事实，真相；真实情况
-sponsor,n. 赞助商，资助者；倡议者；保人 vt. 赞助，资助；举办；倡议 (法案)
-central,adj. 中心的；核心的；中央的
-spring,n. 春天；弹簧，发条；泉 vi. 跳，蹦
-attribute,vt. 把…归因于；认为是…所作 n. 特性，属性
-peak,n. 顶峰，巅峰；山顶；尖头；帽檐 vi. 到达最高值 adj. 高峰时期的
-council,n. 地方议会；委员会
-letter,n. 信，信件；字母 vt. 用字母标明；把字母印刷于
-species,n. 物种，种
-shelter,n. 住处；庇护；避难处，收容所 vt. 保护，掩蔽 vi. 躲避
-plan,n. 计划，方案 vt.  vi. 计划，打算
-beneath,prep. 在…之下；配不上 (某人) adv. 在下面，往下
-consider,vi.  vt. 考虑，斟酌 vt. 认为；体谅；端详
-deal,n. 大量，很多；交易，协议；待遇 vi. 处理，对付；与…做生意；涉及 vi.  vt. 发牌；非法买卖毒品，贩毒
-barrier,n. 障碍，壁垒；障碍物；屏障
-worker,n. 工作者；工人，雇员
-but,conj. 但是；然而；除…外 prep. 除了 adv. 仅仅 n. 借口
-impress,vt.  vi. 使印象深刻，使钦佩 vt. 使…谨记
-transfer,vi.  vt. 转移；移交；转存；换乘 vt. 转账；转让；传染 n. 搬迁，转移，调动；转会；换乘
-fly,vi. 飞；航行，飞行；疾驰；飞逝 vt.  vi. 驾驶 (飞机等)；(旗) 飘扬 vt. 空运；乘飞行器飞越 n. 蝇，苍蝇
-breath,n. 呼吸，气息
-distribute,vt. 分发，分配；分销；使分布
-load,n. 负载，负荷；装载量；大量 vt.  vi. (把…) 装入；输入，载入 vi. 承载，装载
-economics,n. 经济学；经济状况
-valley,n. 山谷，溪谷
-desk,n. 书桌；问询台；(报社等的) 部门
-influence,n. 影响 (力)；有影响的人 (或事物) vt. 影响，对…起作用
-thin,adj. 薄的，细的；瘦的；稀疏的 vi. (头发) 变稀疏 vi.  vt. (使) 变稀薄，变稀疏，变少
-context,n. 背景，环境；上下文，语境
-discipline,n. 纪律；训练方法；自制力；学科 vt. 处罚；训导，管教；自我控制
-while,conj. 在…期间，当…时；然而；尽管 n. 一段时间
-green,adj. 绿色的；环保的；不成熟的 n. 绿色；绿叶蔬菜
-crisis,n. 危机；病危期，危急关头
-nutrient,n. 营养物质，养分
-wife,n. 妻子，太太
-inside,adv.  prep. 在…里，向…内 prep. 少于 (某时间) n. 里面，内部，内侧 adj. 内部的，里面的；内幕的
-laugh,vi.  vt. 笑，发笑 n. 笑声；引人发笑的人或事 vi. (尤因成功而) 处于有利地位
-cousin,n. 堂 (表) 兄弟姐妹；远亲；同类
-illegal,adj. 非法的，违反规则的 n. 非法移民
-similarly,adv. 相似地，类似地
-rice,n. 大米，水稻
-see,vt.  vi. 看见；明白；弄清；考虑 vi. 看得见 vt. 观看；参见；看望；交往；认为
-recall,vt.  vi. 记起，回忆起 vt. 召回；收回 (残次品)；使想起 n. 记忆力；召回
-literacy,n. 识字，读写能力
-altogether,adv. (表强调) 完全；总共；总之
-seek,vt.  vi. 寻找；寻求，谋求 vt. (向人) 请求，寻求
-Spanish,adj. 西班牙的 n. 西班牙语；西班牙人
-revise,vt. 改变 (想法)；修改，修订 vi.  vt. 复习
-hobby,n. 爱好
-transform,vt. 转换，改变，改造
-improve,vi.  vt. 改进，改善，提高
-comparison,n. 比较，对比
-ruin,vt. 毁坏，毁掉；使破产 n. 毁坏，毁灭；破产；废墟；祸根
-district,n. 地区，区域；行政区，管辖区
-productive,adj. 多产的，生产的；有成效的
-stability,n. 稳定，稳固
-confidence,n. 信心，信任；自信；把握；秘密
-ability,n. 能力；才能，本领
-holiday,n. 假期，节日 vi. 度假
-deny,vt. 否认；拒绝接受；拒绝给予
-plastic,n. 塑料，塑胶；信用卡 adj. 塑料的；可塑的；不自然的
-pollution,n. 污染；污染物
-cancer,n. 癌症；社会恶习
-organic,adj. 有机的；器官的；演进的
-opposite,adj. 对面的，另一边的；相反的 n. 对立的人 (或物) prep. 与…相对；与…合演 adv. 在对面
-boom,n. 繁荣，激增；风靡的时期；轰鸣 vi. 轰鸣，轰响；繁荣，迅速发展 vt.  vi. 以低沉有力的声音说话
-rather,adv. 相当；确切地说；而是；宁愿 int. (表示同意) 当然
-lend,vt. 借给，借出；增添 (特色) vt.  vi. 贷 (款)
-saying,n. 谚语，格言，警句
-basic,adj. 基本的；最简单的；最重要的
-shrink,vi.  vt. (使) 缩水；(使) 缩小，减少 vi. 退缩，畏缩 n. 精神病学家，心理学家
-butterfly,n. 蝴蝶，蝶；蝶泳
-evolve,vi.  vt. 进化；逐步发展
-promise,vt.  vi. 承诺，保证 vt. 使很可能，预示 n. 诺言；前途，潜质；迹象
-truly,adv. 衷心地；真正地；准确地
-well-known,adj. 著名的；为人所熟知的
-stamp,n. 邮票；印章，印记 vt.  vi. 跺 (脚)，重踩；迈着重步走 vt. 在…上盖 (字样或图案等)
-poverty,n. 贫穷，贫困；缺乏，短缺
-protein,n. 蛋白质
-circumstance,n. 情况，情形；生活状况；客观环境
-decline,n. 下降，减少；衰退，恶化 vi. 下降，减少；衰退，恶化 vi.  vt. 婉拒，谢绝
-landscape,n. 风景，景观；乡村风景画；形势 vt. 美化…的环境
-era,n. 时代，年代，时期
-motor,n. 发动机，马达；汽车 adj. 机动的；汽车的；肌肉运动的
-imply,vt. 暗示，暗指；意味着，表明
-domestic,adj. 国内的；家庭的；家养的 n. 佣人；家庭纠纷
-industrial,adj. 工业的；工业发达的；工业用的
-absorb,vt. 吸收；理解，掌握；吞并；缓冲 vt. 吸引 (注意力)；承受，承担
-combination,n. 结合体；结合；号码组合
-fear,n. 害怕，惧怕，担忧 vt. 害怕，惧怕 vt.  vi. 担心，担忧 vi. 恐怕
-pour,vt.  vi. 倾倒，倒出；下大雨 vi. (液体、烟等) 涌流；不断涌向
-our,det. 我们的
-following,adj. (时间上) 接着的；下述的 n. 拥护者，追随者；下述，下列 prep. 在…之后，由于
-trade,n. 贸易；行业；营业额；手艺 vi.  vt. 做买卖；(在证券交易所) 交易 vi. 营业，营运 vt. 交换，以物易物
-afraid,adj. 害怕的，担心的
-beautiful,adj. 美丽的；美好的
-weekend,n. 周末 vi. 过周末
-rocket,n. 火箭；火箭弹；焰火；芝麻菜 vi. 快速增长，猛增；迅速移动
-soldier,n. 士兵，战士，军人
-who,pron. 谁
-modem,n. 调制解调器
-link,n. 联系；纽带；链接；交通路线 vt. 把…连接起来；使…相关联
-frequency,n. 发生频率；频繁；(声波等) 频率
-friendship,n. 友谊，朋友关系；友情，友爱
-basket,n. 篮子，筐；球篮
-lab,n. 实验室
-recent,adj. 近来的，最新的
-first,det.  ord. 第一；最重要的，首要的 adv. 首先，第一；首次，第一次 n. 第一个人 (或事)；空前的成就
-label,n. 标签，标牌；(不恰当的) 称谓 vt. 给…贴标签；(不公地) 把…称为
-reduce,vt. 减少，缩小，降低 vt.  vi. (使) 蒸发 vi. 减轻体重，节食
-where,adv.  conj. 在哪里；在那个地方
-comment,n. 评论，意见；批评，指责 vi.  vt. 作出评论；发表意见
-language,n. 语言；语言风格；计算机语言
-mouse,n. 老鼠；鼠标；安静畏缩的人
-appearance,n. 外观；公开露面；出现；问世
-conclusion,n. 结论，推论；结束，结尾；签订
-insure,vt.  vi. (给…) 投保 vt. 承保，为…提供保险；确保
-view,n. 看法；(思维) 方法；视野；景色 vt. 视为，看待；看，观看
-front,n. 正面；正前方；前部；前线 adj. 前面的，前部的，正面的 vt.  vi. 面向，在…前面
-professor,n. 教授；讲师
-try,vi.  vt. 试图，努力 vt. 试，试用；审讯，审判 n. 尝试，努力
-learned,adj. 博学的；学术性的；后天的
-technique,n. 技巧，工艺；技艺，技能
-a,det. 一 (个)，任何一 (个)
-mathematics,n. 数学；数学运算
-frighten,vt.  vi. 使害怕，吓唬
-least,det.  pron. 最小的，最少的，最低程度的
-unlike,prep. 与…不同，不像；非…的特征 adj. 不同的，不相似的
-writer,n. 作家，作者；写…的人
-admire,vt. 钦佩，仰慕；欣赏，观赏
-efficiency,n. 效率，效能
-whom,pron. 谁，什么人
-than,prep.  conj. 比 (用于两个事物的比较)；立即
-discuss,vt. 讨论，谈论；论述，阐述
-crowd,n. 人群，观众；一伙人；群众 vt. 挤满，塞满；挤，靠近
-debt,n. 债务；负债 (状态)；人情债
-adolescent,n. 青少年 adj. 青少年的；(成年人) 幼稚的
-October,n. 十月
-intellectual,adj. 智力的，脑力的；有才智的 n. 知识分子
-profession,n. 职业；业界人士；公开，表明
-British,adj. 英国的，英国人的 n. 英国人
-worth,adj. 价值…的；值得…的 n. 价值…的东西；价值，意义
-cartoon,n. 漫画，连环画；动画片
-information,n. 信息，情报；电话号码查询台
-finally,adv. 终于，最终；最后；彻底地
-employer,n. 雇主
-declare,vt. 宣布，宣称；申报
-press,n. 报刊；新闻界；印刷机；出版社 vt.  vi. 压，按 vt. 把…按入；敦促；把…压平 vi. 拥挤着移动
-palace,n. 宫殿，总统府；王室；豪宅
-cause,n. 原因；理由；事业；诉讼案 vt. 导致，使发生
-peaceful,adj. 平静的；和平的；爱好和平的
-association,n. 协会，社团；联系，关联；联想
-passenger,n. 乘客，旅客
-psychological,adj. 心理的；心理学的
-skilled,adj. 有技术的；需要特殊技能的
-above,adv.  prep. 在…上方；高于 adv. 上文 adj. 上述的
-judgment,n. 看法，评价；判断力；判决
-article,n. 文章；条款；东西，物品；冠词
-lightning,n. 闪电 adj. 闪电似的，极快的
-national,adj. 国家的，全国的；国有的 n. 国民，公民
-necessary,adj. 必需的，必要的；必然的
-generally,adv. 普遍地；通常地；大体上
-cattle,n. 牛
-suppose,vi.  vt. 认为，猜想；(婉转表达) 要不 vt. 假定，假设
-credit,n. 信贷；赞扬；信誉；学分；结余 vt. 把钱存入 (账户)；把…归功于
-delivery,n. 递送 (之物)；分娩；发言方式
-nation,n. 国家，民族；(全体) 国民
-rid,vt. 使摆脱，使消除，使丢弃 adj. 摆脱了的，丢弃了的
-curriculum,n. 课程
-highlight,vt. 强调，突出；用彩笔做标记 n. 最突出 (精彩) 的部分
-absence,n. 缺席，缺勤；不存在，缺乏
-proportion,n. 部分，份额；比例；匀称；规模
-dominate,vt.  vi. 主宰，统治，支配 vt. 高耸，耸立
-carbon,n. 碳；碳 (排放)；复写纸
-childhood,n. 童年，儿童时期
-quite,adv. 相当
-strike,vt. 打，击；撞；突然想到；给…印象 vi. 罢工；行进 vi.  vt. 袭击；侵袭；划 (火柴)；敲，鸣 n. 罢工；袭击；击，打；全中
-essential,adj. 必不可少的；基本的，本质的 n. 必需品；要素，要点
-leading,adj. 最重要的，最好的；领先的
-skim,vt. 撇去 (液体上漂浮物)；惯偷小钱 vi.  vt. 略读，浏览；掠过，滑过；盗取
-frank,adj. 坦率的，直率的
-rail,n. 铁路；铁轨；栏杆，扶手 vi.  vt. 怒斥，责骂
-settle,vt.  vi. 解决，和解；定居；(使) 平静 vt. 确定，决定；把…放好 vi. 降落，停留
-forward,adv. 向前；进展；向将来；提前 adj. 向前的，前进的；未来的 vt. 发送，寄；转寄 n. 前锋
-refer,v. 提及；指，关于；参考
-justify,vt. 证明…有理；为…辩解
-illustrate,vt. 说明，阐明；给…加插图；表明
-culture,n. 文化；种植，栽培
-bond,n. 纽带；债券；保释金；枷锁；键 vt.  vi. (使) 黏合，连结；增强信任
-field,n. 田，地；领域；运动场；实地 vi. 担任守队 (队员) vt. 使参加竞选；处理，应付
-criticism,n. 批评，指责；(对书等的) 评论
-native,adj. 出生地的；本地的；与生俱来的 n. 出生于某地的人；本地人；土著
-aid,n. 援助，救援物资；辅助 (设备) vt.  vi. 帮助，援助
-legal,adj. 法律的，法律方面的；合法的
-positive,adj. 积极的；有益的；表示赞同的 adj. 确信的；阳性的 n. 优势，优点；阳性结果
-whether,conj. 是否；不论，不管
-delight,n. 高兴，愉快；令人高兴的事 (人) vt. 使高兴，使愉快
-ingredient,n. 配料，成分；因素
-effect,n. 影响，结果；特效，效果；财产 vt. 引起，使发生
-perspective,n. 视角，观点；判断力；透视法
-entrance,n. 入口；登场；进入权；准许加入 vt. 使狂喜，使入迷
-invent,vt. 发明，创造；捏造，虚构
-procedure,n. 步骤，程序；手术，治疗
-recognize,vt. 认出；承认；公认；表彰
-substance,n. 物质；根据；主旨；重要性
-decide,vt.  vi. 决定；裁定 vt. 使…下定决心
-tear,n. 眼泪；破洞，裂口 vt.  vi. 撕裂，扯破 vt. 撕开，扯掉；挣开；拉伤 vi. 狂奔，疾驰
-autumn,n. 秋天，秋季
-visit,vt.  vi. 拜访，参观，(短暂地) 作客 vt. 访问 (网站)；视察，巡视 n. 访问，参观；(到网站的) 访问
-December,n. 十二月
-bit,n. 稍微；稍顷；小量；部分；比特
-painter,n. 画家，绘画者；油漆工
-commitment,n. 承诺；献身，投入；义务
-underline,vt. 在…下画线；强调，突出
-strange,adj. 奇怪的；陌生的；不舒服的
-active,adj. 活跃的；积极的；有效的
-retain,vt. 保持，保留；储存；预聘 (律师)
-coat,n. 外套；动物皮毛；涂层，覆盖层 vt. 给…涂上 (或盖上、裹上)
-expensive,adj. 昂贵的
-symptom,n. 症状；征兆
-marketing,n. 市场营销
-genetic,adj. 遗传的，基因的
-estate,n. 庄园，地产；财产，遗产 n. 住宅区，工业区
-decision,n. 决定；决断力；作出决定
-regular,adj. 有规律的；频繁的；通常的 n. 常客，老主顾；含铅汽油
-abstract,adj. 抽象的；抽象派的 n. 摘要，梗概；抽象派艺术作品 vt. 提取，抽取；写…的摘要
-exposure,n. 暴露；揭露；接触；曝光
-emergency,n. 紧急事件，意外事件
-adopt,vt. 采纳，采用；正式通过 vi.  vt. 收养，领养
-reform,n. 变革，改革，革新 vt. 变革，改革，革新 vi.  vt. (使) 改过自新
-urge,vt. 敦促，强烈要求；驱赶，鞭策 n. 冲动，强烈的欲望
-communicate,vi.  vt. 交流，沟通；表达，传达
-adapt,vi.  vt. 适应 vt. 改造 (以适应新情况)；改编
-furniture,n. 家具
-necessity,n. 必要；必需品；不可避免的情况
-decorate,vt. 装饰；装修；授予…勋章
-risk,n. 危险，风险；危险的事 (或人) vt. 使…冒风险；冒…的风险
-mere,adj. 仅仅，只不过；极小的，单单 n. 小湖，池塘
-exception,n. 例外；规则的例外，例外的事物
-rare,adj. 少见的；珍稀的；(肉类) 半熟的
-temperature,n. 温度，气温；体温
-afford,vt. 买得起；承担得起；提供，给予
-paragraph,n. 段落，节
-cave,n. 山洞，洞穴 vi. 坍塌；屈服
-eliminate,vt. 消除，清除；淘汰；消灭，干掉
-environment,n. 生活环境，周围状况；自然环境
-recommend,vt. 推荐；建议；使受欢迎
-principle,n. 原则；原理；定律
-audience,n. 观众，听众，读者；正式会见
-pot,n. 锅；罐；壶；凑集的资金；大麻 vt. 把…栽入盆中；击 (球) 入袋
-eventually,adv. 终于，最终
-stretch,vt.  vi. 拉长，撑大；伸展；伸出 vi. (织物) 有弹性；绵延；延续 vt. 拉紧；消耗；使竭尽所能；滥用 n. 一段；一段时间；伸展；弹性
-laboratory,n. 实验室，实验楼
-statue,n. 雕像，雕塑
-protection,n. 保护，防卫；保护物；保障
-fence,n. 栅栏，篱笆，围栏；销赃犯 vt. (用栅栏、篱笆) 围住，隔开 vi. 参加击剑运动；搪塞，回避
-pile,n. 摞，堆；大量，许多 vt. 堆放，摞起；放置，装入 vi. (许多人) 蜂拥，涌入
-deer,n. 鹿
-official,n. 官员，高级职员 adj. 公务的；官方的；官方公布的
-silk,n. 丝绸；蚕丝；皇家律师
-massive,adj. 大而重的；巨大的，严重的
-shape,n. 形状；模糊的影子；状况 vt. 使成…形状；塑造，影响…发展
-yard,n. 码；院子，庭院；场地
-proper,adj. 恰当的；像样的；得体的
-sculpture,n. 雕刻作品，雕像；雕刻艺术
-manner,n. 方式；态度，举止；礼貌，礼仪
-infer,vt. (根据已有信息) 推断；暗示
-conflict,n. 冲突，争执；矛盾 vi. 相互矛盾，冲突
-wise,adj. 睿智的，明智的 suff. 以…方式，朝…方向；在…方面
-reflect,vt. 映出 (影像)；反射；反映，显示 vi.  vt. 认真思考
-fault,n. 过错，责任；缺点，弱点；故障 vt. 发现错误，找出缺点
-radiation,n. 辐射；放射疗法
-clay,n. 黏土，陶土
-raise,vt. 举起；提高；筹募；提及；抚养 vt. 引起；饲养 n. 加薪，工资增长
-candidate,n. 候选人，申请人；考生
-injury,n. (身体的) 伤害；(对感情等) 损害
-largely,adv. 在很大程度上，主要地，大半地
-reproduce,vt. 复制，翻印；使再现，再制造 vi.  vt. 繁殖，生殖
-depress,vt. 使沮丧；降低 (价格等)；按下
-probably,adv. 很可能，大概
-serious,adj. 严重的；严肃的；大量的
-wide,adj. 宽的；…宽的；广泛的；睁大的 adv. 尽可能远地，充分地
-throughout,prep. 遍及；自始至终，从头到尾 adv. 自始至终，从头到尾
-possess,vt. 拥有；具有，具备；支配
-painful,adj. 疼痛的；痛苦的
-diverse,adj. 多样的，形形色色的
-passion,n. 热情，激情；热恋；热衷的爱好
-attention,n. 注意；关注；照料；殷勤；立正 int. 注意；立正
-photograph,n. 照片，相片 vt. 给…拍照 vi. 在照片中呈现…的样子
-immigrant,n. (外来) 移民，侨民
-independent,adj. 独立的；自立的，自主的 n. 无党派议员
-interpret,vt. 解释，说明；把…理解为 vi.  vt. 口译
-mechanical,adj. 机械的；机械般的；机械学的
-civilization,n. 文明；文明国家；文明社会
-curiosity,n. 好奇心；奇物，珍品
-habit,n. 习惯；(对毒品、烟酒的) 瘾
-colony,n. 殖民地；群体，群落
-receive,vt. 收到；受到；回应；接待；收看 vt.  vi. 购买，接受 (赃物)
-shade,n. 阴凉处；灯罩；色度；细微差别 vt. 给…遮挡光线；加灯罩；画阴影
-medical,adj. 医学的，医疗的，医术的 n. 体格检查，体检
-several,det.  pron. 几个，一些 adj. 各自的，分别的
-staff,n. 全体职员；(学校) 行政人员 vt. 担当…职员，任职于
-silver,n. 银；银器；银色；银币；银牌 adj. 银色的 vt. 给…镀银；使具有银色光泽
-refuse,vi.  vt. 拒绝 vt. 推却；不接受；拒绝给予，不准 n. 废物，垃圾
-particular,adj. 特定的；格外的；挑剔的 n. 细节，详情
-superior,adj. 更好的；级别更高的；高傲的 n. 上级，上司
-society,n. 社会；社团；上流社会；交往
-chemical,adj. 化学的，与化学有关的 n. 化学品，化学制品
-specialist,n. 专家；专科医生 adj. 专业的
-independence,n. (国家的) 独立；(人的) 自立
-insurance,n. 保险 (业)；保险费；预防措施
-tone,n. 语气；音色；风格；色调 n. 健壮度 vt. 使更健壮，使更结实
-reflection,n. 映像；反射；反映；深思
-grind,vt. 磨碎，碾碎；绞碎；把…磨锋利 vi.  vt. 摩擦 (发出刺耳声) n. 苦差事，令人疲惫的工作
-wild,adj. 野生的；荒凉的；无法无天的 n. 野生状态
-business,n. 商业，生意；商务；企业；职责
-theory,n. 理论，学说；理论基础；观点
-approach,vi.  vt. 接近，靠近 vt. 接洽，要求；处理，对付 n. 方法，态度；接近，靠近；路径
-unpleasant,adj. 使人不愉快的；不友善的
-scientific,adj. 科学的；细致严谨的
-borrow,vi.  vt. 借，借用；引用
-edge,n. 边，边缘；刀刃；优势；尖锐 vi.  vt. (使) 慢慢移动 vt. 给…加边 vi. 略微增加 (或减少)
-emotion,n. 情感，情绪
-stereotype,n. 成见，刻板印象 vt. 对…有成见
-attitude,n. 态度，看法；我行我素的作风
-cheer,n. 欢呼声；欢乐的气氛 vi.  vt. 欢呼，加油 vt. 鼓励，鼓舞；(使) 振奋起来
-possibly,adv. 可能，或许；尽可能
-rapid,adj. 快速的，迅速的
-instrument,n. 仪器；乐器；仪表；手段；工具
-lively,adj. 有活力的，活泼的，生动的 adj. 充满趣味的
-interaction,n. 相互影响；交流，沟通
-citizen,n. 公民；居民，市民
-disappoint,vt.  vi. (使) 失望 vt. 使…破灭
-psychologist,n. 心理学家
-indifferent,adj. 不感兴趣的，冷淡的；一般的
-however,adv. 不管多么；无论如何；然而
-below,prep. 在…下面；低于，小于 adv. 在…下面；低于；零度以下
-during,prep. 在…期间
-maximum,adj. 最大数量的，最高限度的 n. 最大量，最高程度，最大限度
-restaurant,n. 餐厅
-crop,n. 庄稼；收成；一批；短马鞭 vt. 剪短 (头发)；剪裁；啃吃 vi. 有收成；(意外地) 出现，发生
-favor,n. 帮助，恩惠；赞同，支持；偏爱 vt. 更喜欢；偏袒；有利于
-perceive,vt. 看待，视为；注意到，察觉
-colleague,n. 同事，同僚
-surprising,adj. 令人吃惊的
-unlikely,adj. 不太可能的；不可信的 adj. 不合适的
-reward,n. 奖赏，回报；赏金 vt. 奖励，酬谢
-scheme,n. 计划，方案；阴谋，诡计 vi.  vt. 密谋，秘密策划
-consumption,n. 消耗 (量)；食用 (量)；消费
-temporary,adj. 暂时的，临时的
-either,det.  pron. 两者中的任何一个 (或每一个) adv. (用于否定句中) 也 conj. 要么…要么
-economic,adj. 经济的；有利可图的
-examine,vt. 仔细研究；仔细检查；测验
-manufacture,vt. 大量制造；编造；生成 (物质) n. 大量制造；商品
-prefer,vt. 更喜欢；偏好
-crash,n. 撞车，坠机；碰撞声；暴跌 vi.  vt. 碰撞，撞击；崩溃 vi. 使发出巨响；暴跌，贬值；睡觉 adj. 应急的，速成的
-rural,adj. 乡下的，乡村的
-suggest,vt. 提议，建议；推荐；表明；暗示
-battery,n. 电池；一系列，一批；排炮
-another,det.  pron. 又一个，另一个
-behind,prep. 在 (向)…后；比不上；支持 adv. 在后面；留在原处；拖欠，拖延
-electronic,adj. 电子的
-realistic,adj. 现实的；能实现的；逼真的
-lock,vt.  vi. 锁上，被锁住 vt. 把…锁起来；陷入，卷入 n. 锁；车锁，制动器；(一绺) 头发
-gene,n. 基因
-internal,adj. 国内的；内部的；体内的
-consult,vt.  vi. 向…咨询，求教；与…商量 vt. 查阅，参考
-international,adj. 国际的 n. 国际体育比赛
-assistant,n. 助手，助理；售货员 adj. 助理的，副的
-medal,n. 勋章，奖牌
-feed,vt. 喂养；养活；施肥；灌输 vt. 将…塞进机器；满足；供给 vi. (婴儿或动物) 进食 n. (婴儿或动物) 一餐；饲料，肥料
-skill,n. 技能，技术
-despite,prep. 尽管，虽然
-among,prep. 在…中；在一群人或物之中
-wine,n. 葡萄酒；果蔬酒
-mass,n. 团，块；大量；群众；质量 adj. 大量的，大批的，广泛的 vi.  vt. 集结，聚集
-dramatic,adj. 急剧的；激动人心的；戏剧的
-contribute,vt.  vi. 捐赠，捐助；做贡献；撰稿 vi. 促使，是导致…的原因之一
-excellent,adj. 极好的，优秀的；棒极了
-phrase,n. 短语，词组；成语，习语；乐句 vt. (以某种方式) 表达
-percentage,n. 百分比，百分率；提成
-statistic,n. 统计数字 (或资料)；统计学
-prove,vt. 证明，证实；展现 vlink. 证明是，被发现是 vi. 发酵
-kindness,n. 仁慈，善良；友好的举动
-fellow,adj. 同伴的，同类的 n. 小伙子；同事，伙伴；研究员
-sight,n. 视力；看见；视野；景象；名胜 vt. 看见，发现
-spot,n. 地点；斑点；污渍；粉刺；排位 vt. 发现，看见 adj. 现货交易的，立即支付的
-quarter,n. 四分之一；一刻钟；季度；群体
-sweep,vt.  vi. 打扫；席卷，横扫；迅速传播 vt. 清除；吹走，冲走；挥动；掠过 vi. 步态轻盈地走；突然袭来；蜿蜒 n. 打扫；挥动；广度；巡视
-college,n. 大学；学院，职业学校
-existence,n. 现实存在；生存，生活
-strategy,n. 战略，策略；战略学
-bottle,n. 瓶子 vt. 把…装入瓶中
-classical,adj. 经典的，古典的；典型的
-requirement,n. 需求，必需品；必要条件
-dentist,n. 牙医；牙医诊所
-tourist,n. 游客，观光客
-recommendation,n. 提议；推荐，介绍；推荐信
-tidy,adj. 整洁的；爱整洁的；高额的 vi.  vt. 使整洁，使有条理
-means,n. 方法，途径；财富，钱财
-industry,n. 工业；行业，产业；勤奋
-immediate,adj. 立即的；当前的；最接近的 adj. 直系的；直接的
-majority,n. 大部分，大多数；多数票
-suffering,n. 痛苦，疼痛；痛苦的经历
-poet,n. 诗人
-disappear,vi. 消失，不见；不复存在；失踪
-march,vi.  vt. 齐步走 vi. 前进；游行示威 vt. 使同行，强迫 (某人) 一起走 n. 示威游行；行军；推进；进行曲
-secretary,n. 秘书；书记员；部长，大臣
-certainly,adv. 无疑，肯定；当然，行
-chemistry,n. 化学；化学性质；互相吸引
-conventional,adj. 传统的；墨守成规的；非核的
-marine,adj. 海洋的，海产的；海运的 n. 海军陆战队士兵
-schedule,n. 日程表；时刻表；节目表 vt. 为…安排时间
-protect,vt.  vi. 保护，防护；为…买保险 vt. 保护，扶持 (本国工业)
-reliable,adj. 可信赖的，可依靠的
-corporation,n. 大公司，大企业
-nearby,adj. 附近的，临近的，近处的 adv. 在附近，在近处
-plant,n. 植物；发电厂，工厂 vt. 栽种，种植
-comprehension,n. 理解力；阅读 (听力) 理解测试
-transition,n. 转变，过渡，变革，变迁 vi. 转变，过渡
-decade,n. 十年
-directly,adv. 直接地，坦率地；正好；立即 conj. 一…就…
-intelligent,adj. 聪明的；有智力的；智能的
-minority,n. 少数；少数民族，少数群体
-feedback,n. 反馈
-pace,n. (移动) 速度；步伐，节奏；一步 vi.  vt. 来回踱步，走来走去 vt. 调整自己的工作节奏
-preparation,n. 准备；准备工作；制剂
-damage,n. 损害，损坏，伤害；损害赔偿金 vt. 损害，伤害
-corporate,adj. 公司的；团体的
-invitation,n. 邀请；请帖；招致
-gather,vi.  vt. 聚集，召集；认为，推测 vt. 搜集，采集；收拢；收割；攒 vi. 逐渐增加，积聚
-innovation,n. 创新，革新；新事物，新方法
-vessel,n. 舰，轮船；容器，器皿；血管
-toward,prep. 向；趋于；将近；对于；用于
-campaign,n. (社会、政治) 运动，活动；战役 vi.  vt. 发起运动，开展活动
-boundary,n. 分界线，边界
-collapse,vi. 倒塌；昏倒；崩溃；暴跌 vi.  vt. 折叠，可折叠；(肺或血管) 萎陷 n. 崩溃；倒塌；暴跌
-relief,n. 宽慰；减轻，缓和；救济 (金)
-satisfy,vt. 使满意；满足
-digital,adj. 数字的，数码的；以数字显示的
-contact,n. 联系；接触；熟人；隐形眼镜 vt. 联系
-appreciate,vt. 欣赏；感激；理解，体会到 vi. 升值，增值
-concern,n. 担心；关心；对…重要的事 vt. 关于；使…担心；涉及，影响
-oppose,vt. 反对，阻挠
-evidence,n. 证据，证明 vt. 证明，表明
-tropical,adj. 热带的
-tuition,n. 讲授，教学；学费
-congress,n. 代表大会；国会
-pole,n. 杆子；地极；磁极，电极；极端 vt.  vi. 用篙撑船，摆船
-harm,n. 伤害，损害 vt. 伤害，损害
-policy,n. 政策；保险单；(处事) 原则
-complex,adj. 复杂的，难懂的 n. 综合建筑群；复合体；情结
-disturb,vt. 打扰，干扰；使烦恼；弄乱
-harvest,n. 收获，收割；收成，收获量 vi.  vt. 收获，收割 vt. 采集，搜集
-purchase,vt. 购买，采购 n. 购买行为；所购之物；握紧
-objective,n. 目标，目的 adj. 客观的，不带个人感情的
-belt,n. 腰带，皮带；传送带；地带 vt. 抽打，狠打
-associate,vt. 联想，联系 vi. 与…为伍，混在一起 n. 同事，(生意) 伙伴 adj. (等级或头衔) 准的，副的
-construct,vt. 建造，修建；组成，构成；绘制 n. 构想，概念
-trend,n. 趋势，倾向 vi. 趋向；在社交媒体上引起热议
-maintain,vt. 维持；维修，保养；坚称；供养
-regardless,adv. 不管；不管怎样，无论如何
-festival,n. 节日；节庆
-affair,n. 事务；私事；事情；暧昧关系
-lake,n. 湖，湖泊
-prompt,vt. 促使；引起，激起；提示 adj. 迅速的，立即的；准时的 n. 提示符 adv. 准时地
-destroy,vt. 毁坏，摧毁；杀死，消灭
-incentive,n. 激励，动力，奖励
-minor,adj. 较小的，次要的，轻微的；小调的 n. 未成年人；辅修课程 vi. 辅修
-meanwhile,adv. 在此期间；与此同时
-satisfaction,n. 满足，满意；妥善处理，补偿
-canal,n. 运河，沟渠；食道，气管
-phenomenon,n. 现象；非凡的人或事
-consideration,n. 考虑；须考虑的因素；体谅
-praise,n. 称赞，赞美；(对上帝的) 称颂 vt. 称赞，赞美；称颂，感谢 (上帝)
-sector,n. 部门，行业；军事管制区；扇形
-sue,vt.  vi. 控告，起诉 vi. (尤指在法庭上)提出请求
-ecosystem,n. 生态系统
-situation,n. 情况，形势；位置，环境；工作
-aside,adv. 在旁边；存，留；除…之外 n. 小声说的话；题外话
-accord,n. 协议，条约；一致，符合 vt. 给予，赠予 vi. (与…) 一致，符合
-demonstrate,vt. 表明，证明；示范，演示；展露 vi. 示威，游行
-reveal,vt. 揭示，揭露；展现，显露
-propose,vt. 提议；打算；提出 (某观点等) vi.  vt. 求婚
-unfortunately,adv. 不幸的是，遗憾的是
-disaster,n. 灾难；不幸；失败的人 (或事物)
-relevant,adj. 有关的，切题的；有价值的
-firm,n. 公司，商行，事务所 adj. 坚硬的；牢固的；坚定的 vt. 使强壮，使坚固 vi. 回升，稳步上涨
-extinct,adj. 已灭绝的，消失的；(火山) 死的
-rarely,adv. 难得地，少见地
-pattern,n. 模式，方式；图案；典范；样板 vt. 使形成 (某行为模式)
-bush,n. 灌木；丛林地带；浓密的毛发
-organize,vt. 组织，筹备；整理，使有条理 vt.  vi. 成立 (联盟、党派等)
-widespread,adj. 普遍的，广泛的
-desire,n. 渴望，欲望 vt. 渴望，期望
-oxygen,n. 氧气
-sensitive,adj. 体贴的；敏感的；灵敏的
-population,n. 人口；某地某类人或动物的总数
-atmosphere,n. 气氛；大气层；空气；情调
-straight,adv. 笔直地；直接；正，直；坦率地 adj. 直的；连续的；准的；坦率的 n. 直道
-introduction,n. 采用，引进；介绍；序言
-capable,adj. 能做…的；能力强的，能干的
-heat,n. 热；热度；炎热天气；供暖 vt.  vi. 加热，(使) 变暖
-pleasant,adj. 令人愉快的；礼貌而友善的
-exercise,n. 锻炼；练习；习题；运用；操练 n. (为达到特定结果的) 活动 vt. 行使，运用 vi.  vt. 锻炼，训练
-confident,adj. 自信的；有把握的，确信的
-membership,n. 会员身份；全体会员
-contemporary,adj. 当代的，现代的；同时代的 n. 同时期的人，同时代的人
-facility,n. 设备，设施；特色功能；天资
-capital,n. 首都；资本，资金；大写字母 adj. 死刑的；大写的
-intensive,adj. 密集的，强化的；(农业) 集约的
-stare,vi. 盯着看，凝视 n. 盯着看，凝视
-meaning,n. 意思；意义
-opinion,n. 看法，观点；舆论；专家意见
-conversation,n. 交谈，谈话
-expense,n. 费用；开支，开销
-correspond,vi. 相符，一致；类似，相当；通信
-thick,adj. 厚的，粗的；浓密的；浓的 adv. 厚厚地
-officer,n. 军官；官员，高级职员；警官
-quality,n. 质量，品质；优质；品德；特质 adj. 优质的，高质量的
-observe,vt.  vi. 观察，注视 vt. 注意到；遵守；庆祝；评论
-speech,n. 演讲；说话能力或方式；口语
-variety,n. 各种各样；多样化；种类，品种
-village,n. 村庄，乡村；乡村居民，村民
-volcano,n. 火山
-picnic,n. 野餐；野餐吃的食物 vi. 去野餐
-appear,vi. 出现；起源；问世；演出；出庭 vlink. 似乎，好像
-similar,adj. 相像的；类似的
-prison,n. 监狱；关押制度；难以脱身之处
-secure,adj. 安全的；牢靠的；安心的 vt. (经过努力) 获得；扣紧；保卫
-issue,n. 议题；问题；一期，期号 vt. 宣布，公布；发给；出版；发行
-unexpected,adj. 出乎意料的，意想不到的
-resist,vt.  vi. 按捺，克制；抵抗，抵制；抵御 vt. 经得起，抗 (伤害)
-nervous,adj. 紧张的；易紧张的；神经系统的
-aware,adj. 知道的；注意到的；有…意识的
-distinguish,vi.  vt. 区分，辨别，分清 vt. 使有别于；辨别出；使表现突出
-trait,n. 特性，特质
-adventure,n. 冒险，奇遇；冒险精神
-excitement,n. 兴奋，激动；令人兴奋的事物
-instance,n. 例子，事例 vt. 举…为例
-consequence,n. 结果，后果；重要性，价值
-recently,adv. 不久前，最近
-mostly,adv. 几乎全部地，主要地，通常
-grant,vt. 批准，准予，给予；承认 n. 拨款，补助金
-insect,n. 昆虫，虫
-vast,adj. 巨大的，广阔的
-giant,adj. 巨大的，伟大的 n. 巨人，巨兽；大公司；伟人
-capture,vt. 抓住，俘虏，捕捉；攻占，夺取 n. 捕获，攻占，夺取
-thrive,vi. 兴旺，繁荣，欣欣向荣
-detect,vt. 发现，察觉，测出
-determine,vt. 确定，查明；决定 vt.  vi. 决意，下决心
-athlete,n. 运动员；擅长运动的人
+ideology,n. 思想体系，意识形态
+scarcely,adv. 几乎不；刚…就…；一定不
+remainder,n. 剩余部分，剩余物；余数
+amplify,vt. 放大 (声音等) vi.  vt. 详述，进一步阐述
+grim,adj. 严肃的；令人沮丧的；阴森的
+sympathetic,adj. 同情的；赞成的；讨人喜欢的
+sphere,n. 球 (体)，球形；范围，领域
+odor,n. (常指难闻的) 气味
+spark,n. 火花；一丁点；活力；诱因 vt. 引发，触发 vi. 产生电火花
+startle,vt. 使…吓一跳，使…大吃一惊
+naval,adj. 海军的
+tantalize,vt. 逗引，招惹
+fatal,adj. 致命的；灾难性的，毁灭性的
+birthright,n. 与生俱来的权利；基本人权
+flame,n. 火焰；强烈的感情；橘红色 vi. 燃烧 vi.  vt. (因强烈情绪而) 脸红
+equality,n. 平等
+radium,n. 镭
+bribe,vt. 贿赂，收买 n. 贿赂，贿赂品
+Islam,n. 伊斯兰教；伊斯兰教徒
+namely,adv. 即，也就是
+precaution,n. 预防措施，防备
+drum,n. 鼓；大桶；鼓状物 vi. 打鼓，击鼓 vt.  vi. 不停地击打
+overwhelm,vt. 使不知所措；击败；压垮；淹没
+conviction,n. 定罪；坚定的信念；坚信
+sexual,adj. 性的；生殖的；性别的
+bean,n. 豆，豆荚，豆科植物；豆形果实
+jet,n. 喷气式飞机；喷射流；黑玉 vi. 乘坐飞机旅行 vi.  vt. 喷射，喷出
+exotic,adj. 异国风情的，外来的
+eternal,adj. 永恒的，永远的；没完没了的
+appliance,n. (家用) 电器，装置
+ornament,n. 装饰品；首饰，饰物；点缀 vt. 装饰，点缀
+ignorance,n. 无知，愚昧
+acquaint,vt. 使熟悉，使了解
+advancement,n. 促进；进步；(工作等的) 提升
+conquer,vt. 占领，征服；克服
+fragrant,adj. 芳香的，有香味的
+collective,adj. 集体的，共同的 n. 集体企业，合作农场
+merger,n. (机构或企业的) 合并
+ascend,vi.  vt. 上升，攀登 vi. 晋升
+cohesion,n. 团结，凝聚 (力)
+Scottish,adj. 苏格兰 (人) 的
+fatigue,n. 疲惫，疲倦；(士兵的) 作训服
+persuasive,adj. 有说服力的，令人信服的
+drip,vi. (液体) 滴下 vi.  vt. 滴 (水)，滴下 (液体)；充满 n. 滴落，滴水声；滴液；点滴瓶
+stoop,vi. 俯身，弯腰；(站立时) 弓背 n. 驼背；门廊
+perpetual,adj. 不间断的，长久的；没完没了的
+jealous,adj. 嫉妒的，吃醋的；小心守护的
+strip,n. (纸、布料等的) 条；狭长地带 vi.  vt. 脱光衣服，扒光…的衣服 vt. 除去；全部拿走；拆卸；剥夺
+stack,n. (整齐的) 一堆；大量；大烟囱 vt.  vi. (使) 放成整齐的一叠 vt. 使成叠地放在
+rating,n. 评级，等级；收视率；电影级别
+franc,n. 法郎
+forthcoming,adj. 即将到来的；现成的
+liability,n. (法律上的) 责任；累赘；债务
+abortion,n. 人工流产，堕胎
+plentiful,adj. 丰富的，充足的
+ambiguity,n. 模棱两可，含糊不清的事物
+cement,n. 水泥；混凝土；胶接剂 vt. 巩固，加强
+setback,n. 挫折，阻碍
+dispatch,vt. 派遣；派送；迅速处理；处决 n. 派遣，调遣；急件，快信；电讯
+spray,vt.  vi. 喷，喷洒；向…扫射，往…上撒 n. 喷雾；喷雾器；浪花，飞沫
+Celsius,adj. 摄氏的 n. 摄氏度
+affiliate,vt.  vi. (使) 隶属于，(使) 紧密联系 n. 分支机构，附属组织，分公司
+recite,vt.  vi. 朗诵，背诵 vt. (口头) 列举，逐一详述
+tablet,n. 平板电脑；药片；丸；牌，匾
+territory,n. 领土，领地；(特定) 地区；领域
+farewell,n. 告别 int. (道别用语) 再见，再会
+n. 医疗保健
+complementary,adj. 互补的；相配的
+practically,adv. 几乎，差不多；实际上，实践上
+avert,vt. 防止，避免；转移目光，背过脸
+petition,n. 请愿书；申诉书 vi.  vt. 请愿；(向法庭) 申请；祈祷
+proportionate,adj. 成比例的；相称的
+limitation,n. 限制，制约；限制规则；局限
+genuine,adj. 真正的；真诚的，可信赖的
+reign,n. 君主统治时期；任期，当政期 vi. 统治，当政；成为最佳；盛行
+judicial,adj. 审判的，司法的，法庭的
+obedient,adj. 服从的，顺从的，温驯的
+perplex,vt. 迷惑，使困惑，使茫然，使费解
+stern,adj. 严厉的，苛刻的；难对付的 n. 船尾
+temple,n. 庙宇，寺院；太阳穴
+mediate,vt.  vi. 调停，调解，斡旋 vt. 找到解决方法；调节，影响
+weave,vt.  vi. 织，编；迂回行进，穿行 vt. 编造 (故事或设计)
+mysterious,adj. 神秘的；故弄玄虚的
+cozy,adj. 温暖舒适的；亲密的；密切的
+grape,n. 葡萄
+worship,n. (对神的) 敬奉；崇拜；阁下 vt. 崇拜，景仰 vt.  vi. 敬奉 (神)
+pilgrim,n. 朝圣者；清教徒前辈移民
+withdraw,vi.  vt. (使) 撤回，撤离；(使) 退出 vt. 收回，撤销；取 (款)；停止供应 vi. 不与人交往
+interpreter,n. 口译员；演奏者；表演者
+chop,vt. 切碎，砍，劈；(大幅度地) 削减 n. 猪 (或羊等) 排；砍，劈；掌劈
+esteem,n. 尊重，敬重 vt. 尊重，敬重
+spectrum,n. 光谱；系列，范围；波谱
+bid,vi.  vt. 出价；叫牌 vi. 投标；努力争取 vt. 向…表示问候，向…告别；吩咐 n. 出价；投标；争取，尝试；叫牌
+constrict,vt.  vi. (使) 收缩 vt. 限制，约束
+portrait,n. 肖像，半身画像；详细的描述 adj. (文件页面) 竖式的
+intensity,n. 强烈，剧烈；(光、声等的) 强度
+companion,n. 同伴；成双的物品之一；陪护
+nuisance,n. 讨厌的人，麻烦的事；非法妨害
+hydrogen,n. 氢，氢气
+constituency,n. 选区；选区选民；支持者
+tin,n. 锡；罐头；金属食品盒；烤盘
+microbe,n. 微生物
+blueprint,n. 蓝图；行动方案；(基因的) 模型
+cliff,n. (尤指靠海的) 悬崖，峭壁
+checkpoint,n. (边防) 检查站，边防关卡
+novelty,n. 新奇；新奇的事物；小玩意 adj. 新颖独特的
+watchdog,n. 监察员，监察委员会；看门狗
+configuration,n. 布局，构造；配置
+elementary,adj. 基本的；初级的；小学的
+nasty,adj. 不友善的；糟糕的；严重的 adj. 下流的；危险的
+relativity,n. 相对论，相对性
+bullet,n. 子弹
+vain,adj. 徒劳的；自负的，虚荣的
+conspicuous,adj. 易见的，明显的，惹人注意的
+shipment,n. 运输，运送；(一批) 运输的货物
+enterprise,n. 企业；项目，规划；进取心
+miraculous,adj. 奇迹般的，不可思议的
+miserable,adj. 痛苦的；令人难受的；不友善的
+capsule,n. 胶囊；航天舱；小容器
+offset,vt. 抵消，弥补
+thirst,n. 口渴；渴求 vi. 渴求
+transmit,vt.  vi. 传送，发送 (信号、信息等) vt. 传播 (疾病)；传达 (思想)；传导
+n. 常识
+evident,adj. 明显的，显然的
+halt,vi.  vt. (使) 停止 n. 停止，暂停
+hatred,n. 仇恨，憎恶，敌意
+conserve,vt. 节约，节省；保护，保存 n. 果酱，蜜饯
+commentary,n. 现场报道；评论性文章；讨论
+alleged,adj. 声称的，涉嫌的
+complement,vt. 补充，补足，使完美 n. 补充物，补足物；足额；补语
+sergeant,n. 中士，军士，巡警，警佐
+mobilize,vt.  vi. 动员，鼓动 vt. 调动，调用
+scatter,vt. 撒，撒播 vi.  vt. (使) 散开，(使) 散布在各处
+sober,adj. 没喝醉的；冷静的；色彩素净的 vt.  vi. (使) 冷静，(使) 严肃
+lubricate,vt. 给…上润滑油，上油
+concede,vt. 承认…属实；(勉强地) 让与 vi.  vt. 承认 (竞赛、选举等的失败)
+uneasy,adj. 不安的，不自在的；不稳定的
+chalk,n. 粉笔；白垩 vt. 用粉笔标记，写 (或画)
+auction,n. 拍卖 vt. 拍卖
+panic,n. 恐慌，惊慌失措；恐慌局面 vi.  vt. (使) 惊慌失措
+elevator,n. 电梯；谷仓；升降机
+maid,n. 女仆，侍女；少女
+preliminary,adj. 初步的；预备的；开始的 n. 初步行动，准备工作
+vacancy,n. (职位的) 空缺；空房
+flour,n. 面粉 vt. 给…裹上面粉，在…上撒以面粉
+incline,vi.  vt. (使) 倾向；(使) 倾斜 vt. 点 (头) n. 斜坡，斜面
+provocative,adj. 挑衅的，煽动的；挑逗的
+mourn,vt.  vi. 哀悼；对…感到遗憾
+appraise,vt. 估量，估价；做出评价；打量
+whistle,n. 哨子；口哨声，汽笛声；汽笛 vt.  vi. 吹口哨 vi. 吹哨子；鸣叫；嗖嗖地移动
+cafeteria,n. 自助餐厅，食堂
+whirl,vi.  vt. (使) 旋转，(使) 打转 vi. (思绪) 混乱，恍惚 n. 旋转，回旋；接连不断的活动
+inquire,vi.  vt. 询问，打听
+dispose,vi. 丢掉；处理 vt. 布置，安排；使倾向于
+leather,n. 皮革；皮衣，皮外套
+lounge,n. 休息室；躺椅；沙发 vi. 懒洋洋地坐，躺，消磨时间
+weep,vi.  vt. 哭泣，流泪 vi. (伤口) 流血，渗出液体 n. 哭泣，流泪
+dean,n. 院长，系主任；教长；泰斗
+occasional,adj. 偶尔的，有时发生的
+diversion,n. 转向，转移；令人分心的事物 n. 消遣，娱乐
+loom,vi. 隐约显现，赫然出现；逐渐逼近 n. 织布机
+reactor,n. 核反应堆
+timid,adj. 胆怯的，羞怯的
+funeral,n. 葬礼，丧礼
+polar,adj. 极地的；磁极的；完全相反的
+eradicate,vt. 消灭，灭绝，根除
+mayor,n. 市长，镇长
+steak,n. 牛排；肉排；牛肉块；鱼排
 fit,vi.  vt. 适合，合身；可容纳；符合 vt. 试穿；安装；使适合 (某工作) adj. 健壮的，健康的；适合的 n. (癫痫等的)发作；一阵；匹配
 invest,vi.  vt. 投资；投入 (时间等)；授 (权)
-seal,n. 海豹；章，印记；密封垫；封蜡 vt. 封上 (信封)；密封；确定；封锁
-acknowledge,vt. 承认，认可；感谢 vt. 告知收到 (信件或信息等)
-aggressive,adj. 好斗的，有侵略性的；进取的
-anxious,adj. 焦虑的；让人担忧的；渴望的
-abundant,adj. 大量的，丰富的，充足的
-promotion,n. 晋升；促销；促进；晋级
-against,prep. 反对，违反；对…不利；倚，撞 prep. 和…比赛；以防；衬托；和…相比
-trick,n. 诡计，花招；戏法；诀窍 vt. 欺骗，欺诈 adj. 意在欺骗的；虚弱的，有毛病的
-nutrition,n. 营养，滋养
-nest,n. 鸟巢；巢穴；家；一套物件 vi. 筑巢，巢居
-climate,n. 气候；气候带；局势，风气
-growth,n. 成长，生长；增加，增长，增强
-achievement,n. 成就，成绩；完成，实现，达成
-reporter,n. 记者
-divorce,n. 离婚；脱离，分离 vt.  vi. 与 (某人) 离婚 vt. 使分离，使脱离
-geography,n. 地理学；地貌，地势；布局
-almost,adv. 几乎，差不多
-mislead,vt. 误导，将…引入歧途
-architect,n. 建筑师；发起者，创立者
-professional,adj. 职业的，专业的 n. 专业人士；职业运动员；内行
-vital,adj. 极其重要的；维持生命所必需的 adj. 充满活力的，生机勃勃的
-arise,vi. 发生，出现；由…引起；起身
-frequent,adj. 经常性的，频繁的 vt. 常到，常去，常出入于
-applied,adj. 应用的，实用的
-permit,vt. 允许，准许 vi.  vt. 使…有可能 n. 许可证，特许证
-accurate,adj. 准确的，精确的
-category,n. 种类，类别
-traffic,n. 交通；流量；非法交易 vi. 非法交易
-medicine,n. 药；医学
-usage. 应该，应当
-compose,vt. 组成；使平静 vt.  vi. 作(曲)，写（信、诗等）
-implication,n. 可能的影响；暗示，含意；牵连
-expression,n. 表达；表情，神情；措词，说法
-experience,n. 经验，阅历；(一次) 经历 vt. 经历；感受，体会
-session,n. 一场，一节；会议，开庭；学年
-therefore,adv. 所以，因此，因而
-abroad,adv. 在国外；去国外；广为流传地
-tutor,n. 家庭教师；助教，导师 vt. 教授，辅导
-patient,n. 病人，患者 adj. 有耐心的
-specific,adj. 明确具体的；特定的；特有的 n. 细节，详情
-quantity,n. 数量，数目；大量，大批
-satellite,n. 人造卫星；卫星；卫星国
-advise,vi.  vt. 建议，忠告；提供专业咨询 vt. 正式通知
-complicated,adj. 复杂的，难懂的
-pity,n. 同情，怜悯；遗憾，可惜 vt. 同情，怜悯
-furthermore,adv. 而且，此外，再者
-representative,n. 代表；(美国) 众议院议员 adj. 典型的，有代表性的；代议制的
-guide,n. 指南；导游；有指导意义的事物 vt. 给…领路；指导，影响
-enemy,n. 敌人，反对者；敌军；大敌
-settlement,n. 协议，和解；偿付；定居点
-opportunity,n. 机会，时机
-technology,n. 科技，技术
-accident,n. (交通) 事故；意外，偶然
-advice,n. 建议，忠告
-latter,adj. 后者的；后期的
-suspect,vt.  vi. 怀疑，猜想 n. 嫌疑犯 adj. 骗人的，可疑的
-responsible,adj. 负责的；应担责的；作为原因的
-physician,n. (内科) 医生
-donate,vt. 捐赠；献 (血，器官等)
-moral,adj. 道德的；出于道义的；有道德的 n. 品行，道德；寓意
-presentation,n. 演示，报告，介绍；颁发 n. 呈现方式；演出
-effective,adj. 有效的；生效的；实际的
-talent,n. 天资，天赋；有才能的人
-effort,n. 努力，力气；特别行动
-vacation,n. 假期，休庭期；休假，度假 vi. 度假
-tape,n. 磁带，录像带；胶带；窄布条 vt. 录音，录像；用胶带粘
-standard,n. 标准，水平；道德水准；军旗 adj. 通常的，标准的；规范的
-impressive,adj. 使人印象深刻的，令人敬佩的
-political,adj. 政治的；政党的；关心政治的
-adult,n. 成年人；成年动物 adj. 成年的，成熟的；成人的
-impact,n. 影响；撞击，碰撞 vi.  vt. 影响；撞击，碰撞
-payment,n. 付款；付款额；报答，报应
-suffer,vi.  vt. 遭受，蒙受，受苦 vi. 变差，变糟
-fee,n. 费用
-obviously,adv. 明显地，显然地
-curious,adj. 好奇的；稀奇古怪的，不寻常的
-ceremony,n. 仪式，典礼；礼数，客套
-authority,n. 权威；权力；当权者，官方；授权
-necessarily,adv. 必然地，不可避免地，必定地
-density,n. 密度
-trial,n. 审判；试验，试用；预赛；考验 vt.  vi. 试验，试用
-statement,n. 声明；说法，陈述；报表
-significant,adj. 重要的；数量大的；意味深长的
-competitor,n. 竞争者，对手；选手，参赛者
-optimistic,adj. 乐观的
-track,n. 小径；踪迹；轨道；跑道；路线 n. 站台；田径；歌曲；音轨 vt. 跟踪，追踪；留下足迹
-concept,n. 概念，想法
-corresponding,adj. 符合的，相应的
-enhance,vt. 提高，增加，改进，改善
-obtain,vt. 获得，实现 vi. 存在，流行
-initiative,n. 主动性；倡议，新方案；主动权
-semester,n. 学期，半学年
-behavior,n. 行为，举止；表现方式
-accommodation,n. 住宿，住处；和解，调解
-sophisticated,adj. 精密的，复杂的 adj. 见多识广的；老练的
-perception,n. 理解，看法；感知；洞察力
-suitable,adj. 合适的，适宜的
-reduction,n. 减少，缩小；脱氧
-investigate,vi.  vt. 调查，研究
-stimulate,vt. 刺激；激发，激励；使活跃
-conscious,adj. 意识到的；清醒的；有意的 suff. 注重…的，有…意识的
-relative,n. 亲戚，亲属 adj. 相对的；与…相比；关于…的
-sustainable,adj. 可持续的
-perhaps,adv. 可能，也许
-universal,adj. 普遍的，全体的，共同的 n. 普遍看法，普遍特征
-charity,n. 慈善机构；慈善；救济；仁爱
-instead,adv. 作为替代，反而
-assumption,n. 假设，臆断；(责任的) 承担
-definitely,adv. 肯定地，当然
-certain,adj. 必然的；确信的；某个；一点 pron. 某些
-favorable,adj. 赞成的；讨人喜欢的；有利的
-classify,vt. (将…) 分类；界定，划分
+thrive,vi. 兴旺，繁荣，欣欣向荣
+expense,n. 费用；开支，开销
+capital,n. 首都；资本，资金；大写字母 adj. 死刑的；大写的
+conversation,n. 交谈，谈话
+exercise,n. 锻炼；练习；习题；运用；操练 n. (为达到特定结果的) 活动 vt. 行使，运用 vi.  vt. 锻炼，训练
+pleasant,adj. 令人愉快的；礼貌而友善的
+capable,adj. 能做…的；能力强的，能干的
+heat,n. 热；热度；炎热天气；供暖 vt.  vi. 加热，(使) 变暖
+straight,adv. 笔直地；直接；正，直；坦率地 adj. 直的；连续的；准的；坦率的 n. 直道
+atmosphere,n. 气氛；大气层；空气；情调
+grant,vt. 批准，准予，给予；承认 n. 拨款，补助金
+distinguish,vi.  vt. 区分，辨别，分清 vt. 使有别于；辨别出；使表现突出
+resist,vt.  vi. 按捺，克制；抵抗，抵制；抵御 vt. 经得起，抗 (伤害)
+unexpected,adj. 出乎意料的，意想不到的
+similar,adj. 相像的；类似的
+volcano,n. 火山
+widespread,adj. 普遍的，广泛的
+rarely,adv. 难得地，少见地
+extinct,adj. 已灭绝的，消失的；(火山) 死的
+disaster,n. 灾难；不幸；失败的人 (或事物)
+relevant,adj. 有关的，切题的；有价值的
+demonstrate,vt. 表明，证明；示范，演示；展露 vi. 示威，游行
+complaint,n. 抱怨，投诉；使人不满的事；疾病
+convince,vt. 使确信，使信服；说服，劝服
+reputation,n. 名誉，名声
+overseas,adv. 在国外，在海外 adj. (在) 国外的，(在) 海外的
+destination,n. 目的地，终点 adj. 将要去的，预订了的
+various,adj. 各种各样的，不同的
 proposal,n. 提议，提案；求婚
 remain,vlink. 保持，仍是 vi. 余下；尚待…；留下，逗留
-dozen,det.  n. 一打，十二个；十几个；许多
-occur,vi. (意外地) 发生；存在，出现
-various,adj. 各种各样的，不同的
-mineral,n. 矿物，矿物质，矿产
-destination,n. 目的地，终点 adj. 将要去的，预订了的
-overseas,adv. 在国外，在海外 adj. (在) 国外的，(在) 海外的
-complaint,n. 使人不满的事；抱怨；疾病
-sink,vi. 下沉；(人) 倒下；降低 vt. 使下沉；挖，掘；埋入；使受挫 n. 洗碗槽；洗脸池 adj. 贫民窟的
-convince,vt. 使确信，使信服；说服，劝服
-moreover,adv. 而且，此外
-reputation,n. 名誉，名声
-principal,adj. 主要的，最重要的 n. 校长；本金，资金；主角
-wealth,n. 财富；大量
-beside,prep. 在…旁边；和…相比
-criticize,vi.  vt. 批评，指责，批判 vt. 评论，评价
-guarantee,vt. 担保，确保；提供保修 n. 保证；保修单；保证金
-probable,adj. 可能的，也许的，大概的
-appeal,vi. 吸引；呼吁，恳求；上诉；打动 n. 上诉；吸引力，魅力；呼吁
-introduce,vt. 介绍；使初次了解；推行；引入
-calm,adj. 镇静的；风平浪静的；无风的 vt. 使平静，使镇静 n. 平静，宁静；冷静
-originate,vi. 起源，发源 vt. 创始，发起
-regulation,n. 规章，制度；调控，管理 adj. 规定的，正规的
-influential,adj. 有影响力的，有权势的 n. 有影响力的人
-practical,adj. 实际的；切实可行的；务实的 adj. (东西) 实用的 n. 实习课，实践课
-wisdom,n. 智慧；明智；学识，学问
-mechanism,n. 机械装置；方法，途径；机制
-fascinate,vt.  vi. 使着迷，迷住
-witness,n. 目击者；(出庭的) 证人；见证人 vt. 目击，目睹；见证；连署
-production,n. 生产，制造；产量；产生，分泌 n. (电影等的) 制作
-complain,vi.  vt. 抱怨；投诉；发牢骚
-regarding,prep. 关于，至于
-critic,n. 评论家，批评家；批评者
-expert,n. 专家，行家 adj. 熟练的，专家的，内行的
-emphasis,n. 重视，重点，强调；重读
-regulate,vt.  vi. (以规章) 管理，约束 vt. 调整，调节
-affect,vt. 影响；(疾病) 侵袭；打动；假装
+favorable,adj. 赞成的；讨人喜欢的；有利的
+certain,adj. 必然的；确信的；某个；一点 pron. 某些
+definitely,adv. 肯定地，当然
+effective,adj. 有效的；生效的；实际的
+presentation,n. 演示，报告，介绍；颁发 n. 呈现方式；演出
+responsible,adj. 负责的；应担责的；作为原因的
+latter,adj. 后者的；后期的
+accident,n. (交通) 事故；意外，偶然
+advice,n. 建议，忠告
+opportunity,n. 机会，时机
+guide,n. 指南；导游；有指导意义的事物 vt. 给…领路；指导，影响
+settlement,n. 协议，和解；偿付；定居点
+complicated,adj. 复杂的，难懂的
+satellite,n. 人造卫星；卫星；卫星国
+tutor,n. 家庭教师；助教，导师 vt. 教授，辅导
+abroad,adv. 在国外；去国外；广为流传地
+reveal,vt. 揭示，揭露；展现，显露
+aside,adv. 在旁边；存，留；除…之外 n. 小声说的话；题外话
+praise,n. 称赞，赞美；(对上帝的) 称颂 vt. 称赞，赞美；称颂，感谢 (上帝)
+sector,n. 部门，行业；军事管制区；扇形
+consideration,n. 考虑；须考虑的因素；体谅
+tuition,n. 讲授，教学；学费
+oppose,vt. 反对，阻挠
+appreciate,vt. 欣赏；感激；理解，体会到 vi. 升值，增值
+contact,n. 联系；接触；熟人；隐形眼镜 vt. 联系
+relief,n. 宽慰；减轻，缓和；救济 (金)
+satisfy,vt. 使满意；满足
+boundary,n. 分界线，边界
+toward,prep. 向；趋于；将近；对于；用于
+vessel,n. 舰，轮船；容器，器皿；血管
+innovation,n. 创新，革新；新事物，新方法
+gather,vi.  vt. 聚集，召集；认为，推测 vt. 搜集，采集；收拢；收割；攒 vi. 逐渐增加，积聚
+canal,n. 运河，沟渠；食道，气管
+damage,n. 损害，损坏，伤害；损害赔偿金 vt. 损害，伤害
+meanwhile,adv. 在此期间；与此同时
+lake,n. 湖，湖泊
+affair,n. 事务；私事；事情；暧昧关系
+construct,vt. 建造，修建；组成，构成；绘制 n. 构想，概念
+associate,vt. 联想，联系 vi. 与…为伍，混在一起 n. 同事，(生意) 伙伴 adj. (等级或头衔) 准的，副的
+belt,n. 腰带，皮带；传送带；地带 vt. 抽打，狠打
+therefore,adv. 所以，因此，因而
+session,n. 一场，一节；会议，开庭；学年
+accurate,adj. 准确的，精确的
+traffic,n. 交通；流量；非法交易 vi. 非法交易
+frequent,adj. 经常性的，频繁的 vt. 常到，常去，常出入于
+professional,adj. 职业的，专业的 n. 专业人士；职业运动员；内行
+architect,n. 建筑师；发起者，创立者
+mislead,vt. 误导，将…引入歧途
+almost,adv. 几乎，差不多
+significant,adj. 重要的；数量大的；意味深长的
+statement,n. 声明；说法，陈述；报表
+authority,n. 权威；权力；当权者，官方；授权
+necessarily,adv. 必然地，不可避免地，必定地
+ceremony,n. 仪式，典礼；礼数，客套
+fee,n. 费用
+obviously,adv. 明显地，显然地
+impressive,adj. 使人印象深刻的，令人敬佩的
+tape,n. 磁带，录像带；胶带；窄布条 vt. 录音，录像；用胶带粘
+climate,n. 气候；气候带；局势，风气
+against,prep. 反对，违反；对…不利；倚，撞 prep. 和…比赛；以防；衬托；和…相比
+promotion,n. 晋升；促销；促进；晋级
+anxious,adj. 焦虑的；让人担忧的；渴望的
+acknowledge,vt. 承认，认可；感谢 vt. 告知收到 (信件或信息等)
+seal,n. 海豹；章，印记；密封垫；封蜡 vt. 封上 (信封)；密封；确定；封锁
+disturb,vt. 打扰，干扰；使烦恼；弄乱
+harm,n. 伤害，损害 vt. 伤害，损害
+pole,n. 杆子；地极；磁极，电极；极端 vt.  vi. 用篙撑船，摆船
+policy,n. 政策；保险单；(处事) 原则
+tourist,n. 游客，观光客
+bottle,n. 瓶子 vt. 把…装入瓶中
+dentist,n. 牙医；牙医诊所
+existence,n. 现实存在；生存，生活
+strategy,n. 战略，策略；战略学
+college,n. 大学；学院，职业学校
+quarter,n. 四分之一；一刻钟；季度；群体
+spot,n. 地点；斑点；污渍；粉刺；排位 vt. 发现，看见 adj. 现货交易的，立即支付的
+sight,n. 视力；看见；视野；景象；名胜 vt. 看见，发现
+fellow,adj. 同伴的，同类的 n. 小伙子；同事，伙伴；研究员
+kindness,n. 仁慈，善良；友好的举动
+prove,vt. 证明，证实；展现 vlink. 证明是，被发现是 vi. 发酵
+statistic,n. 统计数字 (或资料)；统计学
+excellent,adj. 极好的，优秀的；棒极了
+contribute,vt.  vi. 捐赠，捐助；做贡献；撰稿 vi. 促使，是导致…的原因之一
+decade,n. 十年
+transition,n. 转变，过渡，变革，变迁 vi. 转变，过渡
+nearby,adj. 附近的，临近的，近处的 adv. 在附近，在近处
+corporation,n. 大公司，大企业
+protect,vt.  vi. 保护，防护；为…买保险 vt. 保护，扶持 (本国工业)
+accuse,vt. 指责，指控，控告
+conscience,n. 良心，良知；内疚
+conscious,adj. 意识到的；清醒的；有意的 suff. 注重…的，有…意识的
+relative,n. 亲戚，亲属 adj. 相对的；与…相比；关于…的
+sophisticated,adj. 精密的，复杂的 adj. 见多识广的；老练的
+accommodation,n. 住宿，住处；和解，调解
+semester,n. 学期，半学年
+initiative,n. 主动性；倡议，新方案；主动权
+obtain,vt. 获得，实现 vi. 存在，流行
+enhance,vt. 提高，增加，改进，改善
+resident,n. 居民，住户；住院实习医生 adj. (在某地) 居住的
+embarrass,vt. 使尴尬，使难堪
 depression,n. 抑郁症；抑郁，沮丧；萧条期 n. 洼地，坑；低气压
 relate,vt.  vi. 联系，(使) 有关联 vt. 叙述，讲述 vi. 涉及，关于；理解，有共鸣
-assume,vt. 假设；承担，取得；呈现出；假装
-embarrass,vt. 使尴尬，使难堪
-practice,n. 练习，训练；实践；惯例，常规 vi.  vt. 练习，训练 vt. 践行，信奉；从事 (医律等职业)
-resident,n. 居民，住户；住院实习医生 adj. (在某地) 居住的
+complain,vi.  vt. 抱怨；投诉；发牢骚
+critic,n. 评论家，批评家；批评者
+fascinate,vt.  vi. 使着迷，迷住
+production,n. 生产，制造；产量；产生，分泌 n. (电影等的) 制作
+mechanism,n. 机械装置；方法，途径；机制
+witness,n. 目击者；(出庭的) 证人；见证人 vt. 目击，目睹；见证；连署
+appeal,vi. 吸引；呼吁，恳求；上诉；打动 n. 上诉；吸引力，魅力；呼吁
+regulation,n. 规章，制度；调控，管理 adj. 规定的，正规的
+beside,prep. 在…旁边；和…相比
+criticize,vi.  vt. 批评，指责，批判 vt. 评论，评价
+field,n. 田，地；领域；运动场；实地 vi. 担任守队 (队员) vt. 使参加竞选；处理，应付
+bond,n. 纽带；债券；保释金；枷锁；键 vt.  vi. (使) 黏合，连结；增强信任
+illustrate,vt. 说明，阐明；给…加插图；表明
+protection,n. 保护，防卫；保护物；保障
+laboratory,n. 实验室，实验楼
+audience,n. 观众，听众，读者；正式会见
+pot,n. 锅；罐；壶；凑集的资金；大麻 vt. 把…栽入盆中；击 (球) 入袋
+environment,n. 生活环境，周围状况；自然环境
+rare,adj. 少见的；珍稀的；(肉类) 半熟的
+exception,n. 例外；规则的例外，例外的事物
+mere,adj. 仅仅，只不过；极小的，单单 n. 小湖，池塘
+necessity,n. 必要；必需品；不可避免的情况
+cheer,n. 欢呼声；欢乐的气氛 vi.  vt. 欢呼，加油 vt. 鼓励，鼓舞；(使) 振奋起来
+possibly,adv. 可能，或许；尽可能
+borrow,vi.  vt. 借，借用；引用
+scientific,adj. 科学的；细致严谨的
+unpleasant,adj. 使人不愉快的；不友善的
+approach,vi.  vt. 接近，靠近 vt. 接洽，要求；处理，对付 n. 方法，态度；接近，靠近；路径
+business,n. 商业，生意；商务；企业；职责
+theory,n. 理论，学说；理论基础；观点
+grind,vt. 磨碎，碾碎；绞碎；把…磨锋利 vi.  vt. 摩擦 (发出刺耳声) n. 苦差事，令人疲惫的工作
+wild,adj. 野生的；荒凉的；无法无天的 n. 野生状态
+reflection,n. 映像；反射；反映；深思
+tone,n. 语气；音色；风格；色调 n. 健壮度 vt. 使更健壮，使更结实
+marine,adj. 海洋的，海产的；海运的 n. 海军陆战队士兵
+schedule,n. 日程表；时刻表；节目表 vt. 为…安排时间
+chemistry,n. 化学；化学性质；互相吸引
+certainly,adv. 无疑，肯定；当然，行
+suffering,n. 痛苦，疼痛；痛苦的经历
+immediate,adj. 立即的；当前的；最接近的 adj. 直系的；直接的
+majority,n. 大部分，大多数；多数票
+silver,n. 银；银器；银色；银币；银牌 adj. 银色的 vt. 给…镀银；使具有银色光泽
+shade,n. 阴凉处；灯罩；色度；细微差别 vt. 给…遮挡光线；加灯罩；画阴影
+staff,n. 全体职员；(学校) 行政人员 vt. 担当…职员，任职于
+colony,n. 殖民地；群体，群落
+civilization,n. 文明；文明国家；文明社会
+curiosity,n. 好奇心；奇物，珍品
+consumption,n. 消耗 (量)；食用 (量)；消费
+temporary,adj. 暂时的，临时的
+scheme,n. 计划，方案；阴谋，诡计 vi.  vt. 密谋，秘密策划
+unlikely,adj. 不太可能的；不可信的 adj. 不合适的
+surprising,adj. 令人吃惊的
+perceive,vt. 看待，视为；注意到，察觉
+favor,n. 帮助，恩惠；赞同，支持；偏爱 vt. 更喜欢；偏袒；有利于
+maximum,adj. 最大数量的，最高限度的 n. 最大量，最高程度，最大限度
+below,prep. 在…下面；低于，小于 adv. 在…下面；低于；零度以下
+during,prep. 在…期间
+however,adv. 不管多么；无论如何；然而
+chemical,adj. 化学的，与化学有关的 n. 化学品，化学制品
+independence,n. (国家的) 独立；(人的) 自立
+communicate,vi.  vt. 交流，沟通；表达，传达
+society,n. 社会；社团；上流社会；交往
+particular,adj. 特定的；格外的；挑剔的 n. 细节，详情
+reform,n. 变革，改革，革新 vt. 变革，改革，革新 vi.  vt. (使) 改过自新
+exposure,n. 暴露；揭露；接触；曝光
+regular,adj. 有规律的；频繁的；通常的 n. 常客，老主顾；含铅汽油
+retain,vt. 保持，保留；储存；预聘 (律师)
+mass,n. 团，块；大量；群众；质量 adj. 大量的，大批的，广泛的 vi.  vt. 集结，聚集
+feed,vt. 喂养；养活；施肥；灌输 vt. 将…塞进机器；满足；供给 vi. (婴儿或动物) 进食 n. (婴儿或动物) 一餐；饲料，肥料
+realistic,adj. 现实的；能实现的；逼真的
+behind,prep. 在 (向)…后；比不上；支持 adv. 在后面；留在原处；拖欠，拖延
+rural,adj. 乡下的，乡村的
+examine,vt. 仔细研究；仔细检查；测验
+manufacture,vt. 大量制造；编造；生成 (物质) n. 大量制造；商品
+essential,adj. 必不可少的；基本的，本质的 n. 必需品；要素，要点
+forward,adv. 向前；进展；向将来；提前 adj. 向前的，前进的；未来的 vt. 发送，寄；转寄 n. 前锋
+quite,adv. 相当
+childhood,n. 童年，儿童时期
+dominate,vt.  vi. 主宰，统治，支配 vt. 高耸，耸立
+absence,n. 缺席，缺勤；不存在，缺乏
+highlight,vt. 强调，突出；用彩笔做标记 n. 最突出 (精彩) 的部分
+judgment,n. 看法，评价；判断力；判决
+recall,vt.  vi. 记起，回忆起 vt. 召回；收回 (残次品)；使想起 n. 记忆力；召回
+improvement,n. 改善，改进，提高
+judge,n. 法官；裁判员；鉴定人 vi.  vt. 判断；担任裁判；评价，指责 vt. 估计，猜测；审理，判决
+offer,vt.  vi. 主动提出，自愿给予 vt. 提供，供应 n. 提议；出价，报价；特价
+admire,vt. 钦佩，仰慕；欣赏，观赏
+efficiency,n. 效率，效能
+mathematics,n. 数学；数学运算
+technique,n. 技巧，工艺；技艺，技能
+learned,adj. 博学的；学术性的；后天的
+unlike,prep. 与…不同，不像；非…的特征 adj. 不同的，不相似的
+professor,n. 教授；讲师
+appearance,n. 外观；公开露面；出现；问世
+investment,n. 投资；(时间、精力的) 投入
+nearly,adv. 几乎，差不多
+description,n. 描述，叙述；种类，类型
+fry,vt.  vi. 油炸，油煎，油炒 vi. (被阳光) 灼伤，晒伤 n. 炸薯条；鱼苗
+boost,vt. 使增长，推动；偷窃 n. 激励；增加；向上一推
+labor,n. 劳动；劳动力；分娩；英国工党 vi. 努力做 (困难的事)；干苦力活
+satisfied,adj. 满意的；确信的
+similarly,adv. 相似地，类似地
+attract,vt. 吸引；引起 (注意等)
+sustain,vt. 保持，维持；遭受；支撑；认可
+discipline,n. 纪律；训练方法；自制力；学科 vt. 处罚；训导，管教；自我控制
+nutrient,n. 营养物质，养分
+skilled,adj. 有技术的；需要特殊技能的
+association,n. 协会，社团；联系，关联；联想
+employer,n. 雇主
+British,adj. 英国的，英国人的 n. 英国人
+profession,n. 职业；业界人士；公开，表明
+intellectual,adj. 智力的，脑力的；有才智的 n. 知识分子
+absorb,vt. 吸收；理解，掌握；吞并；缓冲 vt. 吸引 (注意力)；承受，承担
+imply,vt. 暗示，暗指；意味着，表明
+era,n. 时代，年代，时期
+landscape,n. 风景，景观；乡村风景画；形势 vt. 美化…的环境
+decline,n. 下降，减少；衰退，恶化 vi. 下降，减少；衰退，恶化 vi.  vt. 婉拒，谢绝
+well-known,adj. 著名的；为人所熟知的
+saying,n. 谚语，格言，警句
+truly,adv. 衷心地；真正地；准确地
+boom,n. 繁荣，激增；风靡的时期；轰鸣 vi. 轰鸣，轰响；繁荣，迅速发展 vt.  vi. 以低沉有力的声音说话
+pollution,n. 污染；污染物
+holiday,n. 假期，节日 vi. 度假
+plastic,n. 塑料，塑胶；信用卡 adj. 塑料的；可塑的；不自然的
+comparison,n. 比较，对比
+confidence,n. 信心，信任；自信；把握；秘密
+hobby,n. 爱好
+transform,vt. 转换，改变，改造
+revise,vt. 改变 (想法)；修改，修订 vi.  vt. 复习
+literacy,n. 识字，读写能力
+indifferent,adj. 不感兴趣的，冷淡的；一般的
+psychologist,n. 心理学家
+interaction,n. 相互影响；交流，沟通
+lively,adj. 有活力的，活泼的，生动的 adj. 充满趣味的
+depress,vt. 使沮丧；降低 (价格等)；按下
+largely,adv. 在很大程度上，主要地，大半地
+raise,vt. 举起；提高；筹募；提及；抚养 vt. 引起；饲养 n. 加薪，工资增长
+infer,vt. (根据已有信息) 推断；暗示
+proper,adj. 恰当的；像样的；得体的
+sculpture,n. 雕刻作品，雕像；雕刻艺术
+yard,n. 码；院子，庭院；场地
+massive,adj. 大而重的；巨大的，严重的
+decide,vt.  vi. 决定；裁定 vt. 使…下定决心
+tear,n. 眼泪；破洞，裂口 vt.  vi. 撕裂，扯破 vt. 撕开，扯掉；挣开；拉伤 vi. 狂奔，疾驰
+substance,n. 物质；根据；主旨；重要性
+procedure,n. 步骤，程序；手术，治疗
+recognize,vt. 认出；承认；公认；表彰
+entrance,n. 入口；登场；进入权；准许加入 vt. 使狂喜，使入迷
+perspective,n. 视角，观点；判断力；透视法
+effect,n. 影响，结果；特效，效果；财产 vt. 引起，使发生
+delight,n. 高兴，愉快；令人高兴的事 (人) vt. 使高兴，使愉快
+ingredient,n. 配料，成分；因素
+whether,conj. 是否；不论，不管
+native,adj. 出生地的；本地的；与生俱来的 n. 出生于某地的人；本地人；土著
+speculative,adj. (信息) 推测性的；(生意) 投机的
+refute,vt. 反驳，否认…的正确性
+vaccination,n. 接种疫苗
+elaborate,adj. 复杂的，详尽的，精心制作的 vi.  vt. 详尽说明，详细阐述
+reassure,vt. 使安心，使消除疑虑
+sensational,adj. 轰动的；耸人听闻的；极好的
+plea,n. 恳求；抗辩；(犯罪的) 借口
+naked,adj. 裸体的；无遮盖的；毫不掩饰的
+pasture,n. 牧场；(生活或工作的) 条件 vt. 放牧
+enlist,vt. 赢得，获得 (支持、帮助等) vi.  vt. 征募，(使) 入伍
+evaporate,vi.  vt. (使) 蒸发，(使) 挥发 vi. 逐渐消失
+germ,n. 细菌，病菌；起源，萌芽；胚胎
+respectively,adv. 分别地，各自地，依次地
+sarcasm,n. 讽刺，嘲讽，挖苦
+lofty,adj. 高耸的；崇高的；高傲的
+gymnastics,n. 体操，体操训练
+devise,vt. 想出，发明，设计
+temptation,n. 引诱，诱惑，诱惑人的事物
+parcel,n. 包裹，邮包；一块地
+conform,vi. 遵守；顺应大流；相一致
+variation,n. 变化，差异；变体，变种；变奏
+anticipate,vt. 预料；期待，期盼；先于…做
+flatter,vt. 奉承，讨好；使…显得更好
+perfume,n. 香水；芳香，香味 vt. 使香气弥漫；抹香水
+attribute,vt. 把…归因于；认为是…所作 n. 特性，属性
+central,adj. 中心的；核心的；中央的
+council,n. 地方议会；委员会
+fact,n. 现实；事实，真相；真实情况
+particularly,adv. 特别，尤其
+following,adj. (时间上) 接着的；下述的 n. 拥护者，追随者；下述，下列 prep. 在…之后，由于
+experiment,n. 实验，试验；尝试，实践 vi. (用…) 做实验；进行试验，试用
+within,prep. 在…之内；在…内部，在…里 adv. 在里面，在内部
+yet,adv. 还没；马上；还；迄今为止 conj. 但是，然而
+capability,n. 能力，才能；军事力量
+arrest,vt. 逮捕；阻止；吸引…的注意力 n. 逮捕；(身体部分) 突然停止工作
+fascinating,adj. 让人着迷的，极有吸引力的
+dreamy,adj. 恍惚的；不切实际的；梦幻的
+continual,adj. 不停的，无间断的；频繁的
+likewise,adv. 同样地，相似地；我也一样
+hip,n. 髋，臀部；野蔷薇果 adj. 新潮的，赶时髦的
+identification,n. 确认，识别；身份证明；确定
+seaport,n. 海港城市
+tolerant,adj. 宽容的，容忍的；能耐…的
+blast,n. 爆炸，气浪；强劲的气流；响声 vt.  vi. 炸毁，爆破；发出刺耳的高音 vt. 严厉批评；猛击；向…喷射
+fare,n. 车费，票价；乘客；饭菜 vi. 进展，进行
+literally,adv. 字面上地；确实地；简直
+illuminate,vt. 照亮；照明；照射；阐释；说明
+retailer,n. 零售商，零售商店
+cloth,n. 布，布料；牧师
+span,n. 持续时间；范围；跨度；宽度 vt. 持续，贯穿；包括，涵盖；横跨
+opt,vi.  vt. 选择，作出抉择
+strap,n. 带子 vt. 用带子系 (或绑)；用绷带包扎
+triangle,n. 三角形；三角铁；三角关系
+tune,n. 曲调，曲子 vt. 调音；调整；调频道
+intellect,n. 智力，领悟力；才智非凡的人
+fancy,adj. 花哨的；精致的；奢华的 vt. 想要，想做；爱慕；自负；认为 vi.  vt. 真没想到，竟然 n. 想象；想要，爱好
+shepherd,n. (尤指男性) 牧羊人 vt. 带领，护送
+standpoint,n. 立场，观点，角度，立足点
+miniature,adj. 很小的，微型的 n. 微型画，小画像；缩微模型
+swear,vi. 咒骂，诅咒，说脏话 vt. 发誓要；肯定地说；使起誓 vi.  vt. 发誓，郑重承诺
+tailor,n. 裁缝 vt. 定做
+transcend,vt. 超出，超越
+breeze,n. 微风；轻而易举的事 vi. 轻盈而自信地走
+repel,vt. 驱逐；赶走；使厌恶；使反感 vi.  vt. (磁极等) 排斥，相斥
+goodness,n. 善良，美德；(食物中的) 营养 int. (表示惊讶) 天哪
+originality,n. 原创性，创造性
+lawsuit,n. 诉讼，官司
+bolt,n. (门窗) 插销；螺栓；一道 (闪电) vt.  vi. 闩上 (门、窗) vt. 用螺栓固定；狼吞虎咽 vi. (马等) 脱缰；(人) 跑开
+Neptune,n. 海王星
+repressive,adj. 压迫的，专制的；压抑的
+creep,vi. 悄悄行进；匍匐行进；渐渐出现 n. 讨厌鬼；马屁精；偏离
+medieval,adj. 中世纪的
+penalty,n. 处罚，罚金；判罚；罚球；害处
+qualitative,adj. 质量的，定性的，性质的
+truthful,adj. (人) 诚实的；(陈述等) 如实的
+garage,n. 车库；汽车修理厂 vt. 把…送入车库 (或修车厂)
+accommodate,vt. 容纳；为…提供住宿；迎合 vi.  vt. (调整以) 适应
+receiver,n. 接收器；听筒；接收人
+tribe,n. 部落；一伙人；(动植物的) 族
+multiply,vi.  vt. 乘；(使) 大量增加；(使) 繁殖
+adverse,adj. 不利的，有害的
+elicit,vt. 引出，诱出，套出
+crack,vi.  vt. (使) 破裂，裂开；砸开，破开 vt. 重击，猛击；找到解决方法 n. 裂缝；缝隙；爆裂声；尝试 adj. 训练有素的，一流的
+exempt,adj. 被免除 (义务、付款) 的 vt. 豁免，免除 (义务、付款)
+ministry,n. (政府的) 部；(全体) 牧师
+gossip,n. 流言蜚语；闲聊；爱说闲话的人 vi. 闲聊，说长道短
+scrutiny,n. 彻底审查；仔细检查
+exile,n. 流放，流亡；被流放者 vt. 流放，放逐
+maneuver,n. 策略；巧妙的移动；军事演习 vi.  vt. (谨慎或熟练地) 移动；操纵
+signify,vt. 表示，意味着；表达，表明 vi. 具有重要性，要紧
+utility,n. (水、电等) 公用事业；实用 adj. 多功能的，多用途的
+laundry,n. (要洗或洗好的) 衣物；洗衣房
+scramble,vi. 攀爬；争抢，争夺 vt. 仓促完成；扰乱；炒 (蛋) n. 攀爬；争夺；摩托车越野赛 vt.  vi. (使) 紧急起飞
+crumble,vt.  vi. (使) 粉碎，(使) 破裂 vi. 崩塌，破裂；衰落，崩溃
+juvenile,adj. 少年的；幼稚的；(动物) 幼小的 n. 少年；幼仔，雏鸟
+dread,vt. 非常害怕，极为担心 n. 恐惧，令人惧怕的事物
+skillful,adj. 技术好的，熟练的；处理巧妙的
+innocence,n. 清白，无罪；天真，单纯，纯真
+bronze,n. 青铜；青铜色；青铜制品；铜牌 adj. 青铜色的
+misconduct,n. 不端行为，失职；管理不善
+preferable,adj. 更好的，更可取的，更合适的
+prudent,adj. 谨慎的；慎重的；精明的
+whilst,conj. 当…的时候，然而，尽管
+turbulence,n. 涡流，紊流；动荡，骚乱
+textile,n. 织物，纺织品；纺织业
+conceive,vt.  vi. 想象，想出，构想；怀孕
+tackle,vt. 处理 (难题)；与某人交涉；抓获 vt.  vi. 抢球，抢断；擒抱摔倒 n. 抢断球；阻截队员；体育器材
+immense,adj. 巨大的，极大的
+racial,adj. 种族间的；种族的，人种的
+reconcile,vt. 使和谐一致；使和好；妥协
+contaminate,vt. 污染，弄脏；玷污，毒害
+humane,adj. 人道的，仁慈的
+assembly,n. 立法机构，议会；集会；组装
+distract,vt. 分散 (注意力)，使分心
+infection,n. (被) 传染；传染病；感染
+sideways,adv. 往 (或从、向) 一侧；侧着 adj. 侧着的
+mortgage,n. 房屋抵押贷款，按揭 vt. 抵押 (房屋、土地) 借款
+stroke,n. 击球；一击；一笔；中风；轻抚 n. (成功的) 举动；钟声；游泳姿势 vt. 轻抚，抚摸；轻触，轻拭
+reluctant,adj. 勉强的，不情愿的
+lawn,n. 草坪，草地
+incompatible,adj. 不相容的；合不来的；不兼容的
+aggravate,vt. 加重，使恶化；激怒，使恼火
+refine,vt. 提炼，精炼；改善，改良
+distill,vt. 蒸馏；提炼 (信息)
+pan,n. 平底锅；烤盘 vt. 严厉批评；淘 (金) vi.  vt. 追拍，摇摄
+drag,vt. 拖，拉；生拉硬拽；用鼠标拖动 vi.  vt. 缓慢而费力地移动 vi. (时间或活动) 过得很慢 n. 累赘；讨厌的人或事；空气阻力
+restless,adj. 坐立不安的；没有真正休息的
+integrity,n. 正直，诚实；完整，完全
+apology,n. 道歉，认错
+cathedral,n. 大教堂，主教座堂
+drift,vi. 漂流，漂；缓缓移动 vt. 使漂流，使漂浮 n. 雪堆；水流，气流；主旨；偏航
+wool,n. (羊等的) 毛；毛线；羊毛织物
+cushion,n. 坐垫，靠垫；起缓冲作用的事物 vt. 起缓冲作用；减轻…的影响
+denote,vt. (符号等) 代表；表示，意指
+expertise,n. 专门技术，专门知识，专长
+laughter,n. 笑，笑声
+vibrate,vi.  vt. (使) 振动，(使) 颤动
+disapprove,vi.  vt. 不赞成，反对
+eccentric,adj. 古怪的；怪异的 n. 行为古怪的人
+grieve,vi.  vt. (因某人去世而) 悲伤，悲痛 vt. 使难过，使悲伤
+instruct,vt. 指示，吩咐；教授，传授
+crush,vt. 压坏；捣碎；镇压；使非常伤心 vt.  vi. (使) 变皱 n. 迷恋；拥挤的人群；果汁饮料
+troop,n. 军队，部队；一群人 vi. 成群结队而行 adj. 军队的
+incur,vt. 招致，引起，蒙受
+commemorate,vt. (用…) 纪念，作为…的纪念
+monument,n. 纪念碑，纪念馆；名胜；典范
+premature,adj. 过早的；早产的；仓促的
+wardrobe,n. 衣柜；全部服装；服装部
+transplant,n. (器官等的) 移植；移植的器官 vt. 移植 (器官等)；移栽；使迁移
+noble,adj. 高尚的；贵族的；壮观的 n. 贵族
+academy,n. 专科院校，学校；研究院，学会
+aerial,adj. 从飞机上的；空中的 n. (电视等的) 天线
+prospector,n. 勘探者，探矿者
+choke,vi.  vt. (使) 窒息，噎住；使哽咽 vt. 掐死，勒死；阻塞，塞满 vi. (因紧张而) 失败，发挥失常 n. 窒息，哽噎声
+dictation,n. 口述，口授；听写 (测试)
+maturity,n. 成熟；到期
+utmost,adj. 极度的，最大的 n. 极限，最大限度
+sorrow,n. 悲伤，伤心；令人悲伤的事 vi. 感到悲伤
+shrewd,adj. 精明的，敏锐的
+degenerate,vi. 恶化，衰退，堕落 adj. 堕落的，腐化的；退化的 n. 堕落的人，腐化的人
+concrete,adj. 确实的，具体的；混凝土制的 n. 混凝土
+obedience,n. 服从，驯服
+disgraceful,adj. 不光彩的，可耻的
+vivid,adj. 生动的，清晰的；鲜艳的
+explosion,n. 爆炸 (声)；爆发，激增
+allocate,vt. 分配，划拨
+culminate,vi. 以…告终，达到…的顶点
+proceeding,n. 诉讼；一系列行动；(会议) 记录
+renew,vt. 延长，使续期；重新开始；更换
+collaborate,vi. 合作，协作；勾结，叛国
+mosquito,n. 蚊子
+luncheon,n. 午餐，午宴
+compel,vt. 强迫，逼迫
+bitter,adj. 使人悲痛的；苦的；严寒的 adj. 激烈而不愉快的；愤愤不平的 n. 苦啤酒；苦酒原汁
+wrinkle,n. 皱纹；皱褶 vt.  vi. (使) 长皱纹；(使) 起皱，起褶
+relentless,adj. 不停的，持续的；无情的
+superintendent,n. 负责人；警长；(大楼) 看管人
+veteran,n. 有经验的人，老手；退伍军人
+anemia,n. 贫血症
+worthless,adj. 无价值的；一无是处的
+symposium,n. 专题讨论会，研讨会
+unveil,vt. 公布，推出；为…揭幕
+endeavor,vi. 努力，尽力 n. 努力，尝试
+flap,vt.  vi. 拍打 (翅膀)；摆动，挥动 vi. 忧虑，激动 n. 片状垂悬物；拍打 (声)；忧虑
+haste,n. 匆忙，仓促
+disrupt,vt. 使中断，扰乱
+upright,adj. 直立的；立式的；正直的 adv. 竖立地，直立地
+nonsense,n. 胡说；愚蠢的举动；无意义的话
+addicted,adj. 上瘾的；入迷的
+herb,n. 香草，药草
+reservoir,n. 水库；大量储备；储液器
+antique,adj. 古董的，古玩的 n. 古董，古玩
+telescope,n. 望远镜 vt. 缩短 (长度或时间)
+beam,n. 光束，光线；横梁；平衡木 vi.  vt. 眉开眼笑；照耀 vt. 发射 (信号)
+fragment,n. 碎片，片段，小部分 vt.  vi. (使) 成碎片，(使) 分裂
+inevitable,adj. 不可避免的，必然发生的
+malicious,adj. 恶毒的，怀有恶意的
+radical,adj. 根本的，彻底的；激进的 n. 激进分子；游离基
+imperialism,n. 帝国主义；势力扩张
+harsh,adj. 严厉的；恶劣的；刺耳的
+refugee,n. 难民，避难者
+magnificent,adj. 宏伟的，令人印象深刻的
+slavery,n. 奴隶制；奴隶身份
+cruise,n. 乘船游览，航行 vi.  vt. 乘船游览；慢速行驶，巡行 vi. 以平稳的速度行驶；轻易赢得
+moisture,n. 潮气，湿气，水分
+quotation,n. 引文，引语；引用；报价；牌价
+doctrine,n. 信条，主义，教义
+unanimous,adj. 一致通过的；意见一致的
+opponent,n. 对手，竞争者；反对者
+steep,adj. 陡的；急剧的；(价格等) 过高的 vt. 浸泡 (食物)
+ventilate,vt. 使…通风；公开表达，公开讨论
+blossom,n. (树或灌木的) 花，花簇 vi. 开花；变得健康 (快乐等)，兴旺
+bubble,n. 气泡；肥皂泡；经济泡沫 vi. 起泡，冒泡；(情绪等) 涌动
+punctuate,vi.  vt. 在…中加标点 vt. 不时打断
+persist,vi.  vt. 顽强坚持，执着 vi. 持续，延续
+hasty,adj. 仓促的，草率的，冲动的
+composer,n. 作曲家
+verse,n. 诗；诗节；(《圣经》等中的) 节
+rear,n. 后部 adj. 后面的，后部的 vt. 抚养，养育；饲养 vi. (尤指马) 用后腿直立；巍然耸立
+torture,n. 拷打，拷问；折磨，煎熬 vt. 拷打，拷问；使痛苦，使受煎熬
+condense,vi.  vt. (使) 凝结；(使) 浓缩，变浓稠 vt. 压缩，精简 (文章或讲话)
+operational,adj. 可运转的；运营的；军事行动的
+catastrophe,n. 重大灾难，横祸
+socialist,adj. 社会主义的 n. 社会主义者，社会主义党人
+spite,n. 怨恨，恶意 vt. 故意伤害，激怒
+tight,adj. 紧的；紧身的；严格的；拮据的 adv. 紧紧地，牢固地
+clinic,n. 诊所；门诊时间；研习班
+inhabitant,n. 居民，栖居的动物
+intensify,vi.  vt. 加强，强化，加剧
+parliament,n. 议会，国会
+acute,adj. 严重的，剧烈的；(疾病) 急性的 adj. (感官) 灵敏的；敏锐的；锐角的
+clarify,vt. 阐明，阐释
+testimony,n. 证词，口供；证据，证明
+narrative,n. 叙事；记叙，叙述 adj. 记叙的，叙述的
+rigid,adj. 严格的，死板的；固执的；僵硬的
+courtesy,n. 谦恭有礼的举止，礼貌 adj. 可免费使用的
+petrol,n. 汽油
+gravity,n. 重力，地心引力；(事态的) 严重性
+menace,n. 危险的事物 (人)；威胁；捣蛋鬼 vt. 危及，威胁到
+merit,n. 优秀品质，价值；优点，长处 vt. 值得，应受到
+crisp,adj. 脆的，酥脆的；挺括的；凉爽的 n. 炸薯片；水果酥 vi.  vt. (使) 变脆
+numerical,adj. 数字的，以数字表示的
+romance,n. 罗曼史；恋爱；爱情故事 vt. 和 (某人) 谈情说爱
+supper,n. 晚饭，夜宵
+twist,vt.  vi. (使) 弯曲变形；扭动；缠绕 vi. 曲折，蜿蜒 vt. 使弯曲；转动，旋转；扭伤；曲解 n. 转动，旋转；转折；急转弯处
+uncertain,adj. 不确定的，无把握的；不清楚的
+triple,adj. 三个的，三部分的；是…的三倍 vi.  vt. (使) 变成三倍
+ally,n. 同盟国；支持者，盟友 vt.  vi. 与…结盟，与…联合
+sanction,n. 制裁；许可，批准；处罚 vt. 许可，准许；惩罚，实施制裁
+evoke,vt. 引起，唤起 (回忆或感情等)
+fasten,vt.  vi. 扣紧，系牢；(使) 盖好；抓牢 vt. 使牢固，使固定
+pronounce,vt. 发音；正式宣布，宣告
+submission,n. 屈服，投降；提交 (的文件或建议)
+slender,adj. 苗条的；细长的；微薄的
+sweat,n. 汗；出汗，流汗；累活儿；运动服 vi.  vt. 出汗，流汗；焖 vi. 艰苦努力；担心，忧虑，不安
+thermometer,n. 温度计
+wipe,vt. 擦，拭；抹去，消除 n. 擦，拭；(湿) 纸巾
+garbage,n. 垃圾；垃圾箱；废话
+kettle,n. 烧水壶
+claw,n. 爪；螯，钳 vi.  vt. 抓，挠
+tunnel,n. 地道，隧道；(动物挖的) 洞穴 vi.  vt. 挖隧道，挖地道
+rhythm,n. 节奏，韵律；规律性变化
+carrier,n. 运输公司；病原携带者；搬运人 n. 军输车，航空母舰；通信公司
+continuous,adj. 持续的，连续的；进行式的
+glory,n. 荣誉，光荣；壮丽，辉煌
+fiber,n. 纤维；纤维织物
+oral,adj. 口头的；口腔的，口的 n. 口试
+aisle,n. 过道，走道
+servant,n. 仆人；政府雇员；受制于…的人
+curl,vt.  vi. (使) 卷曲；蜷曲；(使) 旋绕 n. (一绺) 鬈发；卷曲；卷状物
+barber,n. 男理发师；(男) 理发店
+declaration,n. 宣布，宣言；声明；申报 (单)
+resign,vi.  vt. 辞职 vt. 使顺从
+bystander,n. 旁观者，局外人
+prolong,vt. 延长，拖延
+telegraph,n. 电报，电报机 vi.  vt. (给…) 发电报 vt. 流露，暴露
+hesitant,adj. 犹豫的；迟疑的
+specialty,n. 专业，专长；特产，特色菜
+fertilizer,n. 肥料，化肥
+soar,vi. 升空；猛增；翱翔；耸立；高涨
+precede,vt.  vi. 先于…(发生或存在) vt. 走在…之前
+forecast,n. 预测，预报 vt. 预测，预报
+drastic,adj. 严厉的，极端的；(变化) 急剧的
+excerpt,n. 摘录，节选片段 vt. 摘录，节选
+concession,n. 让步，认输；特许；租地营业权
+damp,adj. 潮湿的，湿气重的 n. 潮湿，湿气 vt. 使潮湿；抑制(感情等)
+guideline,n. 指导方针，准则；参考
+quote,vt.  vi. 引用，引述 vt. 举例说明；开价，报价 n. 引文，引语；报价，估价；引号
+tuberculosis,n. 肺结核
+overturn,vi.  vt. (使) 翻倒，打翻 vt. 推翻 (判决等)；颠覆 (政府等)
+corps,n. 特种部队；一组人；军，兵团
+saucer,n. 茶碟，茶托
+staircase,n. 楼梯
+lip,n. 嘴唇；边沿；无礼的话
+perish,vi. 死亡，猝死；湮灭，毁灭，丧失
+precedent,n. 可援引的例子；先例；惯例
+tray,n. 托盘，浅盘
+ash,n. 灰，灰烬；废墟；骨灰；白蜡树
+weld,vt.  vi. 焊接；熔接 vt. 使…团结；使…结合 n. 焊接点
+deed,n. 行为；契约
