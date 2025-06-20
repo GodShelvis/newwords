@@ -754,3 +754,4 @@ sanction,n. 制裁；许可，批准；处罚 vt. 许可，准许；惩罚，实
 evoke,vt. 引起，唤起 (回忆或感情等)
 fasten,vt.  vi. 扣紧，系牢；(使) 盖好；抓牢 vt. 使牢固，使固定
 pronounce,vt. 发音；正式宣布，宣告
+1
